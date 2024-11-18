@@ -1,0 +1,2731 @@
+id,Basic_Demos-Age,Basic_Demos-Sex,SDS-SDS_Total_T,PreInt_EduHx-computerinternet_hoursday,sii,age_group
+00008ff9,5,0,64.4,3.0,2.0,Child
+000fd460,9,0,64.0,0.0,0.0,Early Teen
+00105258,10,1,54.0,2.0,0.0,Early Teen
+00115b9f,9,0,45.0,0.0,1.0,Early Teen
+001f3379,13,1,56.0,0.0,1.0,Teen
+0038ba98,10,0,40.0,3.0,0.0,Early Teen
+00abe655,11,0,59.0,0.0,0.0,Early Teen
+00ae59c9,13,0,47.0,1.0,1.0,Teen
+00c0cd71,7,0,50.0,2.0,2.0,Early Teen
+00d56d4b,5,1,53.0,0.0,0.0,Child
+00e6167c,6,0,55.0,3.0,0.0,Early Teen
+00f332d1,14,0,43.0,2.0,1.0,Teen
+00f574e9,16,0,55.8,3.0,0.0,Young Adult
+01085eb3,12,0,73.0,0.0,0.0,Early Teen
+01182ce3,13,0,67.0,3.0,2.0,Teen
+012cadd8,9,0,40.0,0.0,0.0,Early Teen
+012e3869,6,0,54.2,0.0,0.0,Early Teen
+014c303e,6,0,55.0,2.0,0.0,Early Teen
+015ba5b1,13,0,51.0,3.0,2.0,Teen
+01cae1ef,12,0,42.0,2.0,0.0,Early Teen
+02073150,7,0,55.0,0.0,0.0,Early Teen
+0219f64a,6,0,94.0,1.0,2.0,Early Teen
+02347f13,10,0,67.0,2.0,0.0,Early Teen
+026102c4,7,1,47.0,0.0,0.0,Early Teen
+02648a1c,16,1,50.0,0.0,0.0,Young Adult
+026fcbc3,10,0,60.0,0.0,0.0,Early Teen
+029a19c9,17,1,46.0,3.0,1.0,Young Adult
+02a01f18,6,0,54.0,0.0,0.0,Early Teen
+02c4cf7f,9,0,59.0,0.0,1.0,Early Teen
+02cebf33,12,1,100.0,1.0,1.0,Early Teen
+02cf7384,16,1,51.0,2.0,0.0,Young Adult
+02dcf62a,12,1,51.0,0.0,0.0,Early Teen
+02e56a7c,10,1,43.0,2.0,0.0,Early Teen
+0347462d,17,0,53.0,2.0,1.0,Young Adult
+034f923b,14,1,72.0,0.0,0.0,Teen
+0357a10e,7,0,68.0,0.0,1.0,Early Teen
+035c96dd,13,1,47.0,0.0,0.0,Teen
+0380e709,17,0,66.2,2.0,2.0,Young Adult
+03833cec,9,0,50.0,0.0,0.0,Early Teen
+0391e587,10,0,59.0,0.0,2.0,Early Teen
+03a5c2d6,10,1,68.0,0.0,0.0,Early Teen
+03a9019b,10,0,50.0,0.0,1.0,Early Teen
+03bf5026,8,1,66.0,2.0,0.0,Early Teen
+03f1c1c8,12,1,66.0,2.0,2.0,Early Teen
+0417c91e,6,1,56.4,0.0,0.0,Early Teen
+04370442,6,1,51.0,1.0,2.0,Early Teen
+045a0a94,16,0,45.0,3.0,2.0,Young Adult
+0471236c,6,0,54.2,0.0,0.0,Early Teen
+0499c3e8,12,0,46.0,2.0,1.0,Early Teen
+04ad419d,8,1,76.0,0.0,0.0,Early Teen
+04af8fdd,16,1,48.2,0.0,0.0,Young Adult
+04afb6f9,17,1,67.0,2.0,2.0,Young Adult
+04b3cc70,9,1,63.0,0.0,0.0,Early Teen
+04bb1a76,9,0,66.0,2.0,2.0,Early Teen
+04cb2c30,8,1,71.0,0.0,1.0,Early Teen
+04d06a9c,10,0,63.0,1.0,1.0,Early Teen
+04dc7df1,10,1,59.0,0.0,1.0,Early Teen
+04f094a8,10,0,79.0,0.0,1.0,Early Teen
+0506b9cd,13,0,77.0,3.0,1.0,Teen
+051680a0,7,0,69.0,0.0,1.0,Early Teen
+051f73ae,10,0,59.0,0.0,0.0,Early Teen
+052a1122,8,0,50.0,3.0,1.0,Early Teen
+055156e2,12,0,71.0,2.0,2.0,Early Teen
+05777ce1,14,0,84.0,2.0,2.0,Teen
+058990e9,10,0,79.0,1.0,1.0,Early Teen
+058d2812,11,1,88.0,2.0,2.0,Early Teen
+0598f669,11,1,42.0,0.0,0.0,Early Teen
+059e02ab,11,0,54.0,2.0,1.0,Early Teen
+059eed01,8,1,38.0,0.0,0.0,Early Teen
+05bbed1b,5,1,56.4,0.0,0.0,Child
+05bc318e,11,0,58.0,2.0,1.0,Early Teen
+05d3d73a,8,0,54.0,0.0,0.0,Early Teen
+05db1b9b,8,0,56.0,0.0,0.0,Early Teen
+05e67680,9,0,59.0,2.0,0.0,Early Teen
+05e94f88,10,0,54.0,0.0,0.0,Early Teen
+05f2d1b5,10,1,43.0,0.0,0.0,Early Teen
+0610c066,8,0,49.0,0.0,0.0,Early Teen
+061f2866,14,0,71.0,1.0,2.0,Teen
+0632d98a,11,0,47.0,0.0,0.0,Early Teen
+063353cc,11,0,66.0,2.0,0.0,Early Teen
+063b16fc,10,0,64.0,2.0,1.0,Early Teen
+06472198,6,1,58.0,0.0,0.0,Early Teen
+064e8da5,5,1,63.6,0.0,0.0,Child
+065801e3,16,1,38.0,2.0,0.0,Young Adult
+066343d4,6,0,85.0,0.0,0.0,Early Teen
+0668373f,9,0,49.0,1.0,2.0,Early Teen
+0676ead5,8,0,64.0,2.0,0.0,Early Teen
+067b9287,7,1,46.0,3.0,1.0,Early Teen
+067de065,7,0,56.0,0.0,0.0,Early Teen
+06c7dcff,10,1,54.0,2.0,0.0,Early Teen
+06c8b2fb,6,1,56.2,0.0,0.0,Early Teen
+06eb8adb,8,0,41.0,0.0,0.0,Early Teen
+06ec8be3,9,1,63.0,0.0,1.0,Early Teen
+070386b2,9,1,49.0,2.0,0.0,Early Teen
+07048067,13,0,41.0,1.0,1.0,Teen
+0720320e,15,0,43.0,2.0,0.0,Teen
+0745c390,10,0,55.0,2.0,1.0,Early Teen
+077ac7a2,10,0,42.0,0.0,1.0,Early Teen
+07d879cf,16,0,47.0,1.0,1.0,Young Adult
+080698b7,11,1,50.0,2.0,0.0,Early Teen
+08159c5e,17,1,43.0,2.0,0.0,Young Adult
+082df556,16,0,46.0,0.0,0.0,Young Adult
+0844aee7,8,0,46.0,2.0,1.0,Early Teen
+08577722,6,1,53.0,0.0,0.0,Early Teen
+08660d12,14,0,50.0,2.0,2.0,Teen
+086d6e7f,8,1,59.0,0.0,0.0,Early Teen
+0884aca8,12,0,55.0,0.0,0.0,Early Teen
+089a6b19,12,0,59.0,2.0,0.0,Early Teen
+08fa44ad,8,0,53.0,0.0,1.0,Early Teen
+09039272,11,1,55.0,0.0,0.0,Early Teen
+092494ec,18,0,56.0,3.0,1.0,Young Adult
+0924b815,7,0,47.0,0.0,1.0,Early Teen
+092c29b9,8,1,53.0,0.0,0.0,Early Teen
+09331bb8,13,0,41.0,2.0,2.0,Teen
+096bf063,13,1,46.0,2.0,2.0,Teen
+0983654b,10,0,58.0,0.0,0.0,Early Teen
+098b5836,15,0,56.0,3.0,2.0,Teen
+098d3c32,7,0,75.0,0.0,0.0,Early Teen
+099e3614,11,1,43.0,2.0,0.0,Early Teen
+09b29113,5,1,66.0,0.0,0.0,Child
+09d80057,6,0,56.0,2.0,1.0,Early Teen
+09eeaba6,7,1,46.0,0.0,0.0,Early Teen
+09eeec14,18,1,43.0,2.0,2.0,Young Adult
+09f44fd2,6,0,55.0,0.0,0.0,Early Teen
+0a1afc11,6,0,55.0,0.0,0.0,Early Teen
+0a418b57,10,1,47.0,3.0,1.0,Early Teen
+0a431608,14,0,68.0,2.0,0.0,Teen
+0a4b1425,6,1,60.0,0.0,0.0,Early Teen
+0a540797,6,0,66.0,0.0,0.0,Early Teen
+0a5f1214,8,0,58.0,1.0,0.0,Early Teen
+0a775819,18,0,91.0,2.0,2.0,Young Adult
+0a822c93,12,0,82.0,0.0,1.0,Early Teen
+0a9159f8,12,1,50.0,0.0,0.0,Early Teen
+0a995f99,8,0,46.0,1.0,0.0,Early Teen
+0aa90ce7,10,0,60.0,0.0,0.0,Early Teen
+0aaf08ec,14,0,46.0,0.0,1.0,Teen
+0ac521c8,14,0,69.0,2.0,3.0,Teen
+0ac5e12f,7,0,42.0,1.0,1.0,Early Teen
+0acac70c,18,0,47.0,3.0,1.0,Young Adult
+0adf511d,9,0,64.0,0.0,1.0,Early Teen
+0af81037,11,0,47.0,0.0,0.0,Early Teen
+0afb2535,14,1,40.0,2.0,0.0,Teen
+0b4014f0,9,1,60.0,3.0,0.0,Early Teen
+0b4f597e,9,1,42.0,0.0,0.0,Early Teen
+0b50f3fa,8,0,72.0,0.0,1.0,Early Teen
+0b518637,6,0,54.0,0.0,0.0,Early Teen
+0b6b07f6,8,1,46.0,0.0,0.0,Early Teen
+0b7c6100,11,1,49.0,2.0,0.0,Early Teen
+0b7d7aec,15,1,59.0,0.0,0.0,Teen
+0b7d9da6,7,0,41.0,2.0,0.0,Early Teen
+0b9fcc42,9,0,60.0,0.0,2.0,Early Teen
+0ba53e53,6,1,49.0,0.0,2.0,Early Teen
+0bd89878,5,0,54.6,2.0,0.0,Child
+0bdace00,7,1,82.0,0.0,0.0,Early Teen
+0bfe4fc9,11,0,54.0,1.0,1.0,Early Teen
+0c0a1576,7,1,49.0,0.0,0.0,Early Teen
+0c3d248f,6,0,45.0,0.0,0.0,Early Teen
+0c3d88cb,7,1,46.0,1.0,0.0,Early Teen
+0c4e2d68,6,1,54.2,0.0,0.0,Early Teen
+0c4eabac,7,0,43.0,0.0,0.0,Early Teen
+0c794cf7,8,1,45.0,0.0,0.0,Early Teen
+0c83af0f,13,1,60.0,0.0,2.0,Teen
+0c8efce0,7,0,45.0,0.0,0.0,Early Teen
+0c98f822,12,0,49.0,3.0,1.0,Early Teen
+0ca08054,13,1,43.0,2.0,2.0,Teen
+0cbe4e54,9,0,51.0,3.0,0.0,Early Teen
+0cccc6bc,9,1,69.0,0.0,0.0,Early Teen
+0d01bbf2,9,0,46.0,0.0,0.0,Early Teen
+0d279d77,8,1,82.0,2.0,0.0,Early Teen
+0d34aee4,13,0,58.0,0.0,1.0,Teen
+0d394928,9,0,41.0,2.0,0.0,Early Teen
+0d4800c8,13,0,43.0,2.0,1.0,Teen
+0d4fa8f4,7,0,42.0,0.0,1.0,Early Teen
+0d570d3e,7,1,82.0,2.0,2.0,Early Teen
+0d74d0ed,12,1,41.0,2.0,0.0,Early Teen
+0d924604,6,0,62.0,0.0,0.0,Early Teen
+0ddab8ff,7,0,53.0,0.0,0.0,Early Teen
+0de01ae7,8,0,100.0,2.0,1.0,Early Teen
+0df44f9e,15,1,62.0,3.0,2.0,Teen
+0df4c27d,14,1,56.0,2.0,0.0,Teen
+0e1cf9b8,11,1,46.0,0.0,0.0,Early Teen
+0e1f7fed,8,1,49.0,2.0,0.0,Early Teen
+0e3b0bd2,7,0,49.0,0.0,0.0,Early Teen
+0e951124,14,0,50.0,3.0,3.0,Teen
+0e9c1be6,6,0,63.0,1.0,1.0,Early Teen
+0ec403df,19,1,52.6,3.0,2.0,Adult
+0ed2a3c8,9,0,41.0,0.0,1.0,Early Teen
+0eddd8e5,6,0,53.0,2.0,0.0,Early Teen
+0ee70b3e,16,1,51.0,0.0,1.0,Young Adult
+0f4db4f2,9,0,82.0,2.0,0.0,Early Teen
+0f6b71c4,5,0,54.6,2.0,0.0,Child
+0f7f3bf3,9,0,53.0,3.0,1.0,Early Teen
+0f9b8e65,13,0,53.0,0.0,1.0,Teen
+0fbb3ca5,15,0,49.0,3.0,1.0,Teen
+0fc19fd9,8,1,58.0,0.0,0.0,Early Teen
+0ff6ac09,7,0,54.0,2.0,0.0,Early Teen
+101774f0,6,1,45.0,0.0,0.0,Early Teen
+101c27f1,7,0,69.0,1.0,0.0,Early Teen
+10258585,6,0,46.0,0.0,1.0,Early Teen
+105e3f96,9,0,73.0,1.0,0.0,Early Teen
+108b8659,6,0,50.0,0.0,0.0,Early Teen
+10ad8c48,12,0,63.0,3.0,2.0,Early Teen
+10be7f09,9,1,41.0,0.0,0.0,Early Teen
+10c0e99a,7,0,49.0,0.0,0.0,Early Teen
+10e46254,7,0,46.0,2.0,0.0,Early Teen
+113f5798,11,1,84.0,2.0,2.0,Early Teen
+11477ed0,9,0,80.0,1.0,0.0,Early Teen
+115d3db4,9,0,56.0,0.0,1.0,Early Teen
+11739de2,11,0,66.0,0.0,0.0,Early Teen
+1184a14a,5,0,60.2,2.0,0.0,Child
+118b7733,10,0,49.0,0.0,1.0,Early Teen
+119d7562,17,0,56.2,3.0,1.0,Young Adult
+119dd2e1,9,0,49.0,0.0,1.0,Early Teen
+119e181e,6,1,51.2,0.0,0.0,Early Teen
+11be5d2e,17,0,52.8,2.0,1.0,Young Adult
+11d1a5ac,11,0,43.0,0.0,0.0,Early Teen
+11f7253c,16,0,91.0,3.0,3.0,Young Adult
+11f9b26c,6,0,43.0,0.0,0.0,Early Teen
+1225fd28,9,1,66.0,2.0,1.0,Early Teen
+12380b06,13,1,49.0,2.0,0.0,Teen
+1286dab7,10,0,42.0,0.0,0.0,Early Teen
+12a607f6,7,0,43.0,2.0,1.0,Early Teen
+12cbf30c,11,1,53.0,1.0,0.0,Early Teen
+12cfb064,6,0,53.0,0.0,0.0,Early Teen
+12f37ff2,7,0,59.0,0.0,1.0,Early Teen
+1301f65d,8,0,46.0,0.0,0.0,Early Teen
+1307c41a,8,1,46.0,2.0,0.0,Early Teen
+1314bc8c,12,0,69.0,0.0,0.0,Early Teen
+136894bc,12,0,50.0,3.0,0.0,Early Teen
+137baaec,9,0,59.0,2.0,2.0,Early Teen
+137fc699,8,0,62.0,0.0,1.0,Early Teen
+13a5e288,6,0,57.4,2.0,0.0,Early Teen
+13be5672,8,0,47.0,0.0,0.0,Early Teen
+13cdb63a,8,1,49.0,0.0,0.0,Early Teen
+13d23890,12,0,58.0,2.0,0.0,Early Teen
+13d2c419,7,0,56.0,0.0,0.0,Early Teen
+13e46923,8,0,79.0,1.0,2.0,Early Teen
+13eee030,9,1,73.0,1.0,1.0,Early Teen
+13fca10c,14,1,42.0,2.0,1.0,Teen
+14109652,17,0,69.4,2.0,2.0,Young Adult
+1420b16e,12,0,54.0,1.0,1.0,Early Teen
+1429abf1,8,0,73.0,0.0,0.0,Early Teen
+14391970,6,0,54.0,0.0,0.0,Early Teen
+144a9a79,9,0,49.0,1.0,2.0,Early Teen
+1455e657,5,0,54.2,0.0,0.0,Child
+14568d61,5,0,63.2,1.0,1.0,Child
+1458a9d2,7,0,55.0,1.0,0.0,Early Teen
+1470a1df,7,0,81.0,2.0,1.0,Early Teen
+147c4374,5,0,46.8,0.0,0.0,Child
+14a6e58e,7,0,89.0,0.0,0.0,Early Teen
+14b3d6e5,5,0,58.2,0.0,0.0,Child
+14b8dd2a,12,0,40.0,0.0,0.0,Early Teen
+14b999b6,11,0,54.0,0.0,0.0,Early Teen
+14c12974,8,1,50.0,0.0,0.0,Early Teen
+14dae995,7,0,69.0,3.0,0.0,Early Teen
+14e00ce0,7,1,49.0,0.0,0.0,Early Teen
+14eac885,12,0,60.0,1.0,2.0,Early Teen
+15227eef,14,0,55.0,2.0,0.0,Teen
+1522fee1,12,0,50.0,2.0,2.0,Early Teen
+154d1191,7,0,47.0,0.0,1.0,Early Teen
+1551c806,18,1,55.6,2.0,1.0,Young Adult
+1562998a,18,0,49.0,2.0,0.0,Young Adult
+157b271f,15,1,73.0,3.0,3.0,Teen
+15a2364d,11,0,84.0,0.0,1.0,Early Teen
+15d702f8,9,0,59.0,0.0,0.0,Early Teen
+15dbc929,7,0,41.0,0.0,0.0,Early Teen
+15f217a6,11,1,40.0,2.0,1.0,Early Teen
+15f2e240,9,1,42.0,0.0,0.0,Early Teen
+1606f203,9,0,41.0,2.0,0.0,Early Teen
+1649ce22,8,1,72.0,0.0,0.0,Early Teen
+164b29ed,8,0,42.0,1.0,0.0,Early Teen
+164edc75,14,0,42.0,1.0,2.0,Teen
+16bf9efe,15,1,50.0,2.0,0.0,Teen
+16deb306,6,1,71.0,0.0,0.0,Early Teen
+16e277aa,11,1,62.0,1.0,0.0,Early Teen
+1704e646,14,1,68.0,2.0,1.0,Teen
+1713348a,13,1,49.0,0.0,0.0,Teen
+176f33fb,6,0,63.0,0.0,0.0,Early Teen
+177f25ab,7,0,75.0,1.0,1.0,Early Teen
+17b08109,7,0,40.0,2.0,0.0,Early Teen
+17c1ae23,9,1,41.0,2.0,1.0,Early Teen
+17e9cba0,10,0,97.0,2.0,2.0,Early Teen
+18154f3a,15,1,60.0,0.0,1.0,Teen
+1824417f,11,0,82.0,3.0,3.0,Early Teen
+1837456f,9,0,60.0,2.0,0.0,Early Teen
+18400e8e,10,0,51.0,3.0,1.0,Early Teen
+1843760e,10,0,47.0,3.0,1.0,Early Teen
+18506cf3,11,0,46.0,2.0,0.0,Early Teen
+1894884e,9,1,49.0,0.0,0.0,Early Teen
+18962676,7,1,56.0,0.0,0.0,Early Teen
+18ab47f8,6,0,49.0,0.0,0.0,Early Teen
+18b79e9b,7,1,54.0,2.0,2.0,Early Teen
+18b8b2f6,7,0,67.0,0.0,1.0,Early Teen
+18e21bf1,8,0,41.0,2.0,0.0,Early Teen
+18f6e6db,6,0,64.0,0.0,0.0,Early Teen
+18fdbccc,8,0,60.0,0.0,0.0,Early Teen
+18feab0f,13,0,73.0,0.0,0.0,Teen
+19098ef0,14,0,40.0,0.0,0.0,Teen
+1911731d,7,1,46.0,0.0,0.0,Early Teen
+19381499,8,1,76.0,3.0,2.0,Early Teen
+1943fb23,7,0,40.0,0.0,0.0,Early Teen
+19455336,10,0,71.0,0.0,1.0,Early Teen
+1949438b,11,0,41.0,0.0,2.0,Early Teen
+1957153d,10,0,60.0,0.0,2.0,Early Teen
+198e50c9,19,0,51.0,3.0,0.0,Adult
+19b095d5,9,1,56.0,0.0,0.0,Early Teen
+19c49039,18,1,66.6,3.0,1.0,Young Adult
+19cc95e8,10,1,45.0,0.0,0.0,Early Teen
+1a1e8ac5,7,1,58.0,0.0,0.0,Early Teen
+1a23d282,13,1,38.0,2.0,1.0,Teen
+1a2412b3,11,0,43.0,1.0,0.0,Early Teen
+1a803bfe,9,0,56.0,0.0,0.0,Early Teen
+1a9f8375,8,1,38.0,2.0,0.0,Early Teen
+1aae1de3,13,0,50.0,2.0,0.0,Teen
+1afa48fe,10,0,59.0,0.0,0.0,Early Teen
+1aff6762,15,0,51.0,2.0,2.0,Teen
+1b258140,5,1,57.8,0.0,0.0,Child
+1b2cd439,10,1,69.0,1.0,0.0,Early Teen
+1b2eea8f,12,0,59.0,2.0,2.0,Early Teen
+1b32427b,16,0,51.6,0.0,0.0,Young Adult
+1b329556,9,0,64.0,2.0,2.0,Early Teen
+1b410106,8,1,64.0,0.0,0.0,Early Teen
+1b49c870,8,0,51.0,1.0,0.0,Early Teen
+1b5b34bc,10,0,47.0,1.0,1.0,Early Teen
+1b5fb26f,8,1,62.0,1.0,0.0,Early Teen
+1b6be334,12,1,58.0,2.0,2.0,Early Teen
+1b6fb363,14,0,53.0,0.0,1.0,Teen
+1b73fce0,7,0,47.0,0.0,0.0,Early Teen
+1bc6a98c,7,0,55.0,0.0,0.0,Early Teen
+1c063ebc,6,1,50.2,0.0,0.0,Early Teen
+1c23295e,19,1,57.4,3.0,0.0,Adult
+1c3b7f1a,9,0,53.0,1.0,0.0,Early Teen
+1c3c2b2f,7,0,60.0,0.0,1.0,Early Teen
+1c481537,13,0,72.0,0.0,3.0,Teen
+1c5ba087,12,0,50.0,2.0,1.0,Early Teen
+1c66daf4,17,0,45.0,0.0,0.0,Young Adult
+1c673231,10,0,69.0,2.0,2.0,Early Teen
+1c6ac3d4,6,0,56.0,2.0,0.0,Early Teen
+1ccf44f0,9,1,42.0,0.0,0.0,Early Teen
+1cd37b36,13,0,43.0,2.0,1.0,Teen
+1cf6dcef,7,1,51.0,2.0,1.0,Early Teen
+1d02812a,11,0,51.0,2.0,0.0,Early Teen
+1d041232,16,1,49.0,2.0,0.0,Young Adult
+1d11d488,11,0,80.0,3.0,0.0,Early Teen
+1d78b3c3,9,0,67.0,0.0,0.0,Early Teen
+1d7edb86,11,1,80.0,2.0,2.0,Early Teen
+1da37c60,17,1,76.0,0.0,2.0,Young Adult
+1dd90b53,14,1,51.0,2.0,2.0,Teen
+1de3c240,7,1,55.0,0.0,0.0,Early Teen
+1dfd6433,10,1,64.0,2.0,1.0,Early Teen
+1e08b1dc,14,0,46.0,2.0,1.0,Teen
+1e2a1bd0,6,0,53.0,1.0,0.0,Early Teen
+1e5f6199,7,0,62.0,0.0,0.0,Early Teen
+1e7dd854,11,1,55.0,0.0,0.0,Early Teen
+1e87baed,11,0,49.0,1.0,0.0,Early Teen
+1e986f93,7,1,40.0,0.0,0.0,Early Teen
+1eb206f0,12,1,45.0,2.0,0.0,Early Teen
+1eda934b,9,1,79.0,2.0,0.0,Early Teen
+1eea376f,21,1,64.8,3.0,0.0,Adult
+1eea8df2,15,0,89.0,3.0,2.0,Teen
+1eedf45e,8,0,100.0,0.0,1.0,Early Teen
+1f2164a4,6,0,66.2,0.0,1.0,Early Teen
+1f400626,11,0,73.0,1.0,0.0,Early Teen
+1f5835cd,9,1,45.0,0.0,0.0,Early Teen
+1f5cefcc,12,0,67.0,0.0,1.0,Early Teen
+1f65fa82,17,0,48.2,2.0,1.0,Young Adult
+1f7bd44c,7,0,46.0,0.0,0.0,Early Teen
+1f7ec039,9,0,82.0,1.0,1.0,Early Teen
+1f881e3d,13,0,59.0,2.0,0.0,Teen
+1fc07a80,10,0,41.0,0.0,0.0,Early Teen
+1feb42f2,9,1,76.0,1.0,2.0,Early Teen
+1fed3943,7,0,73.0,0.0,0.0,Early Teen
+1ffede3b,7,0,69.0,2.0,0.0,Early Teen
+206c8562,10,0,42.0,0.0,1.0,Early Teen
+2084c823,14,1,53.0,2.0,0.0,Teen
+20cefbaf,10,1,42.0,1.0,0.0,Early Teen
+20d7ecfd,11,1,86.0,0.0,1.0,Early Teen
+20df4cab,6,1,64.0,0.0,0.0,Early Teen
+20e8ca68,10,0,46.0,1.0,0.0,Early Teen
+2114473a,9,0,49.0,1.0,0.0,Early Teen
+214f46e8,16,0,61.8,0.0,1.0,Young Adult
+215ca39b,11,1,54.0,2.0,1.0,Early Teen
+217ce5e6,15,0,43.0,2.0,1.0,Teen
+218faf6f,9,0,51.0,0.0,0.0,Early Teen
+21a76448,7,0,90.0,2.0,1.0,Early Teen
+21b835ac,8,0,42.0,0.0,0.0,Early Teen
+21c62163,9,0,47.0,0.0,1.0,Early Teen
+21e5833c,8,0,77.0,2.0,0.0,Early Teen
+21eb6d47,13,1,68.0,1.0,0.0,Teen
+21f58fba,9,0,41.0,0.0,0.0,Early Teen
+221e37e0,9,0,42.0,0.0,0.0,Early Teen
+223724b2,11,0,58.0,0.0,0.0,Early Teen
+22375702,15,0,67.0,3.0,1.0,Teen
+22389051,8,0,71.0,0.0,1.0,Early Teen
+22447a95,17,0,67.0,1.0,0.0,Young Adult
+224fc39a,16,0,69.0,0.0,2.0,Young Adult
+22536a61,13,0,45.0,2.0,0.0,Teen
+22a71606,5,0,57.2,0.0,0.0,Child
+22b4191a,10,1,84.0,0.0,1.0,Early Teen
+22c72c4e,10,0,56.0,0.0,2.0,Early Teen
+22e44415,10,1,47.0,2.0,0.0,Early Teen
+22f43a12,8,0,59.0,0.0,0.0,Early Teen
+231f6db4,7,0,51.0,0.0,1.0,Early Teen
+232b7cb1,16,0,46.0,2.0,0.0,Young Adult
+233b9425,7,0,60.0,0.0,0.0,Early Teen
+2340e84a,10,1,63.0,1.0,0.0,Early Teen
+23418fa2,7,1,53.0,0.0,0.0,Early Teen
+23567787,11,0,50.0,0.0,1.0,Early Teen
+236d450e,11,0,54.0,1.0,1.0,Early Teen
+236ecde8,8,1,55.0,0.0,0.0,Early Teen
+23d1a58d,13,1,91.0,0.0,0.0,Teen
+23d71e37,9,0,73.0,0.0,0.0,Early Teen
+23dafdab,9,0,45.0,0.0,0.0,Early Teen
+23e024bd,14,1,59.0,1.0,0.0,Teen
+23e71e7c,13,0,94.0,2.0,1.0,Teen
+23e7f79b,9,1,53.0,2.0,1.0,Early Teen
+24398aed,6,0,51.0,0.0,0.0,Early Teen
+24591f4d,8,1,47.0,0.0,0.0,Early Teen
+247172f9,10,0,40.0,1.0,0.0,Early Teen
+2496c491,17,1,55.0,3.0,0.0,Young Adult
+249b6d68,14,0,42.0,2.0,0.0,Teen
+249d2266,9,1,58.0,0.0,0.0,Early Teen
+24a3b16d,12,0,45.0,3.0,1.0,Early Teen
+24ab10c6,7,1,63.0,0.0,1.0,Early Teen
+24b4bc6d,7,0,60.0,0.0,1.0,Early Teen
+24b75658,9,1,55.0,0.0,0.0,Early Teen
+24dac645,9,1,64.0,0.0,0.0,Early Teen
+24fb56db,16,1,62.0,2.0,2.0,Young Adult
+252ebc5b,9,0,75.0,0.0,2.0,Early Teen
+253f5cb1,14,0,79.0,2.0,1.0,Teen
+25849c6c,13,1,49.0,0.0,1.0,Teen
+2586774b,9,0,56.0,2.0,0.0,Early Teen
+25a3a723,8,0,77.0,0.0,0.0,Early Teen
+25e752c8,7,0,56.0,0.0,0.0,Early Teen
+25eba023,6,0,54.4,0.0,0.0,Early Teen
+260f542b,8,0,50.0,0.0,0.0,Early Teen
+26190ddd,6,0,84.0,0.0,0.0,Early Teen
+2625767f,17,0,53.0,2.0,0.0,Young Adult
+262cff6d,15,0,64.0,3.0,1.0,Teen
+26891dbd,7,0,97.0,2.0,0.0,Early Teen
+269d9918,12,1,67.0,0.0,1.0,Early Teen
+26a4b61b,13,1,41.0,0.0,1.0,Teen
+26aeacdf,9,0,47.0,0.0,0.0,Early Teen
+26b1792f,5,0,66.0,0.0,0.0,Child
+26b893f4,10,0,46.0,0.0,2.0,Early Teen
+26d31613,15,0,45.0,2.0,1.0,Teen
+26d541c2,10,1,100.0,0.0,0.0,Early Teen
+26f0e055,6,0,54.0,0.0,1.0,Early Teen
+2715347c,15,0,59.0,0.0,1.0,Teen
+273c8ebd,6,0,42.0,0.0,0.0,Early Teen
+2760be91,8,0,54.0,0.0,2.0,Early Teen
+27724073,20,0,40.0,2.0,1.0,Adult
+277f5b32,12,0,68.0,0.0,2.0,Early Teen
+278e8a51,6,0,54.2,0.0,0.0,Early Teen
+279d0ec4,9,0,72.0,0.0,0.0,Early Teen
+27cd2a6c,10,0,50.0,3.0,2.0,Early Teen
+27d363de,11,1,63.0,1.0,1.0,Early Teen
+27d7e5e4,7,0,59.0,0.0,0.0,Early Teen
+27e0ca6b,9,1,41.0,2.0,0.0,Early Teen
+281174c9,13,0,43.0,0.0,0.0,Teen
+2812951b,10,0,45.0,0.0,0.0,Early Teen
+2840643b,6,0,63.0,0.0,1.0,Early Teen
+287390e6,13,0,49.0,2.0,2.0,Teen
+287f1349,17,1,45.0,2.0,0.0,Young Adult
+2891e36b,15,0,45.0,1.0,0.0,Teen
+2898269f,7,0,56.0,0.0,0.0,Early Teen
+28b91cf3,9,1,40.0,0.0,0.0,Early Teen
+28ba92e9,6,0,79.0,0.0,0.0,Early Teen
+28e8b2b2,10,1,63.0,0.0,0.0,Early Teen
+28e973b1,6,0,89.0,2.0,0.0,Early Teen
+28f7e6ff,10,0,58.0,2.0,2.0,Early Teen
+28f99ddb,12,0,41.0,1.0,0.0,Early Teen
+2911ef94,13,1,60.0,2.0,2.0,Teen
+29587a31,8,1,73.0,0.0,0.0,Early Teen
+29886a85,9,1,45.0,0.0,0.0,Early Teen
+29a1d334,9,0,45.0,0.0,0.0,Early Teen
+29b37b4a,13,0,69.0,3.0,2.0,Teen
+29c54890,11,0,43.0,2.0,0.0,Early Teen
+29e4911b,7,1,40.0,0.0,0.0,Early Teen
+2a0b8386,14,0,42.0,0.0,0.0,Teen
+2a3fcf9a,6,1,51.0,0.0,0.0,Early Teen
+2a64085d,6,0,60.0,0.0,0.0,Early Teen
+2a6a6b92,11,1,66.0,2.0,0.0,Early Teen
+2a7b5b79,10,0,41.0,1.0,1.0,Early Teen
+2a81925b,9,0,64.0,1.0,1.0,Early Teen
+2a85889c,7,0,88.0,0.0,1.0,Early Teen
+2a88cbe9,10,0,58.0,0.0,0.0,Early Teen
+2a922ca4,6,0,49.0,0.0,0.0,Early Teen
+2a9e0dee,9,1,50.0,2.0,0.0,Early Teen
+2aa15e6b,8,1,53.0,0.0,1.0,Early Teen
+2aab37ac,11,0,49.0,0.0,0.0,Early Teen
+2ac0bd9f,10,0,69.0,2.0,1.0,Early Teen
+2af3c8d8,15,0,63.0,2.0,1.0,Teen
+2afea280,10,0,69.0,2.0,1.0,Early Teen
+2b34dcf3,9,0,42.0,0.0,0.0,Early Teen
+2b574ef7,9,1,49.0,0.0,0.0,Early Teen
+2bac0893,14,1,49.0,2.0,0.0,Teen
+2bbcfd43,10,1,38.0,0.0,0.0,Early Teen
+2bca454a,9,0,51.0,1.0,0.0,Early Teen
+2beaaf7a,16,1,63.8,0.0,1.0,Young Adult
+2bfc9187,7,1,66.0,3.0,0.0,Early Teen
+2c2dc20d,7,0,71.0,0.0,2.0,Early Teen
+2c3b09db,7,0,62.0,3.0,1.0,Early Teen
+2c406043,7,1,45.0,0.0,0.0,Early Teen
+2c483245,8,0,49.0,3.0,0.0,Early Teen
+2c49257f,9,0,38.0,2.0,0.0,Early Teen
+2c512f2f,9,1,68.0,1.0,1.0,Early Teen
+2c54d6c5,10,1,71.0,0.0,0.0,Early Teen
+2c56c930,9,1,63.0,0.0,0.0,Early Teen
+2c9a90e9,15,1,75.0,3.0,1.0,Teen
+2ca2206f,13,0,59.0,0.0,1.0,Teen
+2ca9811d,14,1,66.0,2.0,1.0,Teen
+2cb0db2c,8,1,46.0,0.0,0.0,Early Teen
+2cc4b720,7,0,40.0,2.0,0.0,Early Teen
+2cd9b5a3,12,1,62.0,0.0,1.0,Early Teen
+2cda86bd,13,0,86.0,3.0,2.0,Teen
+2d043af7,13,0,42.0,2.0,0.0,Teen
+2d0bbbd3,8,0,99.0,0.0,0.0,Early Teen
+2d286c59,11,1,66.0,0.0,0.0,Early Teen
+2d3ba6fa,7,0,41.0,0.0,1.0,Early Teen
+2d5365c6,11,1,60.0,1.0,2.0,Early Teen
+2da6bf6e,7,0,55.0,0.0,0.0,Early Teen
+2dbdfe11,8,0,91.0,0.0,2.0,Early Teen
+2e16053c,9,0,66.0,2.0,1.0,Early Teen
+2e17c497,8,0,72.0,0.0,1.0,Early Teen
+2e293d08,10,1,46.0,0.0,0.0,Early Teen
+2e42573e,8,1,43.0,0.0,0.0,Early Teen
+2e4e045a,8,0,53.0,0.0,0.0,Early Teen
+2e5f5207,11,0,54.0,2.0,1.0,Early Teen
+2e7d888c,13,1,50.0,2.0,1.0,Teen
+2e8c9884,7,0,41.0,0.0,0.0,Early Teen
+2ea277d5,10,1,59.0,1.0,2.0,Early Teen
+2ebdadbc,8,1,73.0,0.0,0.0,Early Teen
+2ee0a1e8,14,0,43.0,3.0,1.0,Teen
+2f0f2949,12,0,56.0,3.0,0.0,Early Teen
+2f12de00,14,1,43.0,2.0,1.0,Teen
+2f154763,8,0,51.0,0.0,0.0,Early Teen
+2f16cad4,8,0,90.0,3.0,0.0,Early Teen
+2f1af08a,6,0,54.2,0.0,0.0,Early Teen
+2f6b484c,9,1,51.0,0.0,0.0,Early Teen
+2f72f441,7,1,49.2,0.0,0.0,Early Teen
+2f7f0eb7,7,1,41.0,1.0,0.0,Early Teen
+2f81950d,8,1,75.0,0.0,0.0,Early Teen
+2f8ec752,11,0,50.0,0.0,0.0,Early Teen
+2f91f3c1,15,1,69.0,0.0,0.0,Teen
+2fba6cf4,7,0,66.0,0.0,0.0,Early Teen
+2fc568f6,14,0,63.0,0.0,1.0,Teen
+2fef897e,10,0,100.0,0.0,0.0,Early Teen
+2ff729d3,13,1,67.0,2.0,0.0,Teen
+3046a5c7,8,1,56.0,0.0,0.0,Early Teen
+3055881a,13,1,47.0,2.0,0.0,Teen
+3065aa2f,15,1,45.0,2.0,0.0,Teen
+307c91ee,6,0,59.0,0.0,0.0,Early Teen
+3093d29f,13,0,49.0,0.0,1.0,Teen
+30ac8a84,10,0,46.0,2.0,2.0,Early Teen
+30b3f203,12,0,64.0,2.0,2.0,Early Teen
+30ba4252,5,1,50.0,2.0,0.0,Child
+30d2fd47,5,0,42.0,0.0,0.0,Child
+3133a6c9,10,1,67.0,0.0,1.0,Early Teen
+31349d8b,13,1,82.0,2.0,0.0,Teen
+3134b69f,11,0,53.0,1.0,1.0,Early Teen
+3146f878,8,1,58.0,2.0,0.0,Early Teen
+3155ed01,15,0,42.0,2.0,0.0,Teen
+3162c492,10,0,51.0,0.0,1.0,Early Teen
+31648caa,7,1,53.0,0.0,0.0,Early Teen
+318ccc0e,8,0,59.0,0.0,0.0,Early Teen
+31b74cd4,10,0,43.0,2.0,1.0,Early Teen
+31d61741,7,1,71.0,1.0,1.0,Early Teen
+31d7a136,9,1,42.0,0.0,0.0,Early Teen
+31ddec50,16,0,46.4,2.0,0.0,Young Adult
+31f01671,10,1,47.0,0.0,0.0,Early Teen
+321202d4,7,0,47.0,3.0,1.0,Early Teen
+3216b978,17,0,42.0,3.0,1.0,Young Adult
+323ea319,10,0,49.0,0.0,0.0,Early Teen
+325afd3d,16,1,55.0,0.0,0.0,Young Adult
+3268c574,18,0,50.2,2.0,1.0,Young Adult
+326c23c2,12,1,54.0,0.0,0.0,Early Teen
+327736cd,7,0,42.0,0.0,0.0,Early Teen
+327ef356,11,0,58.0,1.0,1.0,Early Teen
+329a9c25,10,1,81.0,2.0,2.0,Early Teen
+32a9dac0,8,0,84.0,2.0,2.0,Early Teen
+32b8490d,11,0,52.8,1.0,0.0,Early Teen
+32d0ebca,21,0,50.0,1.0,0.0,Adult
+32d262c2,10,1,64.0,0.0,0.0,Early Teen
+32dcc8ab,8,1,51.0,2.0,0.0,Early Teen
+32e18ccc,14,1,62.0,2.0,2.0,Teen
+3302713b,12,0,42.0,2.0,0.0,Early Teen
+3305a981,14,0,56.0,2.0,2.0,Teen
+331733c7,16,1,49.6,1.0,1.0,Young Adult
+333be478,11,0,55.0,0.0,1.0,Early Teen
+338146bd,13,0,46.0,0.0,0.0,Teen
+3399795b,5,0,98.0,0.0,1.0,Child
+33a499ce,12,0,43.0,1.0,1.0,Early Teen
+33d60f7d,6,0,62.0,2.0,2.0,Early Teen
+33e34de8,17,0,56.0,2.0,1.0,Young Adult
+33fe1b04,9,0,53.0,3.0,0.0,Early Teen
+342d43c7,19,1,75.0,1.0,1.0,Adult
+342edae9,8,1,47.0,0.0,1.0,Early Teen
+343460ab,12,0,77.0,3.0,3.0,Early Teen
+34362a9a,6,0,42.0,2.0,1.0,Early Teen
+3441fd41,16,1,66.0,2.0,1.0,Young Adult
+3466c72a,11,0,45.0,2.0,1.0,Early Teen
+347095fe,12,0,93.0,3.0,2.0,Early Teen
+34eb79f9,11,1,42.0,2.0,0.0,Early Teen
+34ec5de4,16,1,58.0,2.0,0.0,Young Adult
+350cf38b,5,0,47.0,0.0,0.0,Child
+350dbeba,6,0,50.0,3.0,0.0,Early Teen
+35198c2d,17,0,59.6,2.0,2.0,Young Adult
+351cd4ec,9,0,69.0,0.0,1.0,Early Teen
+35265670,6,0,81.0,0.0,1.0,Early Teen
+356ab908,16,1,58.0,1.0,1.0,Young Adult
+35d2aa41,16,0,95.0,2.0,0.0,Young Adult
+35daea65,6,0,46.0,0.0,0.0,Early Teen
+35fa2ebf,13,0,53.0,3.0,3.0,Teen
+36146fe1,17,0,53.6,2.0,0.0,Young Adult
+36473697,18,0,56.0,0.0,1.0,Young Adult
+36530d36,6,1,77.0,0.0,0.0,Early Teen
+3655395c,9,1,55.0,0.0,0.0,Early Teen
+36958957,13,0,53.0,2.0,2.0,Teen
+36b8c9e5,8,0,69.0,2.0,1.0,Early Teen
+36c060b9,11,0,80.0,3.0,2.0,Early Teen
+36c1f189,10,1,45.0,0.0,0.0,Early Teen
+36e77bf0,9,1,58.0,1.0,1.0,Early Teen
+36fda5de,7,0,50.0,0.0,0.0,Early Teen
+370b47c4,13,0,41.0,2.0,0.0,Teen
+3714afd7,10,0,46.0,2.0,0.0,Early Teen
+372a7950,13,0,47.0,0.0,1.0,Teen
+3738db26,12,0,64.0,2.0,2.0,Early Teen
+376e617f,11,0,50.0,3.0,2.0,Early Teen
+37995242,6,1,40.0,0.0,0.0,Early Teen
+37ae1239,9,0,49.0,0.0,1.0,Early Teen
+37bcfa7e,11,0,43.0,3.0,0.0,Early Teen
+380029ef,7,0,60.0,1.0,0.0,Early Teen
+3820a945,12,0,79.0,2.0,0.0,Early Teen
+3826be66,17,0,61.0,3.0,1.0,Young Adult
+38390669,6,0,54.2,2.0,0.0,Early Teen
+384c3f27,13,0,69.0,2.0,0.0,Teen
+385819e6,9,1,49.0,0.0,1.0,Early Teen
+385a6557,8,0,45.0,2.0,0.0,Early Teen
+3875d4de,10,0,49.0,3.0,0.0,Early Teen
+38cccd6d,9,0,63.0,2.0,2.0,Early Teen
+38d53b92,11,0,51.0,0.0,0.0,Early Teen
+38ee12e7,13,0,45.0,2.0,0.0,Teen
+3901e707,7,1,50.0,0.0,0.0,Early Teen
+3913797d,10,0,55.0,0.0,0.0,Early Teen
+3918d854,6,0,54.2,0.0,0.0,Early Teen
+3934e29c,13,1,69.0,3.0,2.0,Teen
+394684ae,12,0,67.0,0.0,0.0,Early Teen
+394a6219,8,0,50.0,0.0,0.0,Early Teen
+3950aa00,9,0,66.0,2.0,0.0,Early Teen
+397efe7a,7,0,64.0,0.0,0.0,Early Teen
+3983d3cd,18,1,41.0,0.0,0.0,Young Adult
+3999e449,10,0,75.0,0.0,0.0,Early Teen
+39bdbb00,8,1,54.0,0.0,0.0,Early Teen
+39c20e2a,11,0,63.0,2.0,0.0,Early Teen
+39cc2836,9,0,59.0,0.0,0.0,Early Teen
+39d626f4,10,0,56.0,1.0,0.0,Early Teen
+39dd3538,6,0,57.4,0.0,0.0,Early Teen
+39fb1ad0,12,0,58.0,0.0,2.0,Early Teen
+3a33d579,16,1,52.6,0.0,1.0,Young Adult
+3a594acf,11,0,58.0,2.0,1.0,Early Teen
+3a9d7bd6,9,1,54.0,0.0,0.0,Early Teen
+3ab0b1ff,11,0,68.0,1.0,1.0,Early Teen
+3ab539f0,6,1,54.0,1.0,0.0,Early Teen
+3acb5be3,6,0,63.0,0.0,0.0,Early Teen
+3ae4ee9b,15,1,62.0,2.0,1.0,Teen
+3b047021,5,1,45.0,2.0,0.0,Child
+3b091b83,8,0,53.0,2.0,0.0,Early Teen
+3b112284,7,1,53.0,0.0,0.0,Early Teen
+3b1b9538,17,0,51.0,2.0,1.0,Young Adult
+3ba48ca7,6,0,97.0,0.0,0.0,Early Teen
+3bbf88cd,8,1,88.0,2.0,2.0,Early Teen
+3c0aba64,15,1,45.0,2.0,0.0,Teen
+3c2cf08e,7,0,47.0,0.0,0.0,Early Teen
+3c5c85e7,10,0,41.0,2.0,0.0,Early Teen
+3c620257,6,1,42.0,1.0,0.0,Early Teen
+3c7a7f32,14,0,46.0,2.0,0.0,Teen
+3c8f474a,9,0,40.0,0.0,0.0,Early Teen
+3ca35642,17,0,52.4,2.0,1.0,Young Adult
+3cc9cfa6,10,0,50.0,0.0,0.0,Early Teen
+3cd8802e,10,1,51.0,2.0,0.0,Early Teen
+3cfeca85,8,0,40.0,0.0,0.0,Early Teen
+3d20d9a7,8,1,81.0,3.0,0.0,Early Teen
+3d2c0bc5,14,1,55.0,2.0,1.0,Teen
+3d36fe8b,11,1,43.0,3.0,0.0,Early Teen
+3d3b87db,14,0,51.0,0.0,1.0,Teen
+3d3dd3ae,13,0,43.0,2.0,0.0,Teen
+3d3fb503,7,0,51.0,2.0,0.0,Early Teen
+3d46429f,13,1,60.0,1.0,2.0,Teen
+3d48430d,6,1,71.0,0.0,0.0,Early Teen
+3d5ad997,10,0,55.0,2.0,0.0,Early Teen
+3d6143f3,7,0,56.0,0.0,0.0,Early Teen
+3d736110,15,1,64.0,0.0,1.0,Teen
+3d8531f5,10,1,49.0,2.0,0.0,Early Teen
+3d970ce4,8,1,71.0,1.0,1.0,Early Teen
+3dcbc164,18,0,50.0,3.0,1.0,Young Adult
+3de1a622,9,1,53.0,0.0,0.0,Early Teen
+3de6a21c,7,0,54.0,0.0,0.0,Early Teen
+3e377cb7,10,0,53.0,0.0,0.0,Early Teen
+3e398bf9,14,0,55.0,2.0,2.0,Teen
+3e3c242c,9,0,38.0,0.0,0.0,Early Teen
+3e5d5b58,7,1,54.0,0.0,1.0,Early Teen
+3e5ee48c,15,0,55.0,1.0,0.0,Teen
+3e7ee995,14,0,72.0,2.0,1.0,Teen
+3e9fd8d6,15,1,68.0,1.0,2.0,Teen
+3eb48980,10,0,53.0,0.0,1.0,Early Teen
+3ebfbb4c,7,1,41.0,0.0,1.0,Early Teen
+3ede35d1,10,0,69.0,0.0,0.0,Early Teen
+3f1cf5ba,10,0,63.0,0.0,1.0,Early Teen
+3f1f23e7,7,0,76.0,2.0,2.0,Early Teen
+3f20e14b,11,0,84.0,0.0,1.0,Early Teen
+3f2141da,8,0,50.0,2.0,0.0,Early Teen
+3f3a70c8,12,0,69.0,3.0,1.0,Early Teen
+3f3d3809,7,1,51.0,0.0,0.0,Early Teen
+3f51a21d,7,0,81.0,1.0,2.0,Early Teen
+3fcef947,9,0,58.0,0.0,0.0,Early Teen
+3fe59141,11,0,56.0,2.0,0.0,Early Teen
+3fe78116,11,0,46.0,1.0,0.0,Early Teen
+40087bc5,13,0,69.0,2.0,2.0,Teen
+40898508,14,0,50.0,2.0,0.0,Teen
+408bed19,9,0,75.0,0.0,0.0,Early Teen
+4093774d,17,1,56.2,2.0,1.0,Young Adult
+40aae75f,10,0,68.0,2.0,0.0,Early Teen
+40b904b3,12,1,49.0,2.0,1.0,Early Teen
+40cdadfc,10,1,58.0,0.0,0.0,Early Teen
+40e95163,7,0,58.0,0.0,0.0,Early Teen
+41052ced,11,0,64.0,0.0,0.0,Early Teen
+41185f8e,12,1,67.0,2.0,2.0,Early Teen
+4128aee6,9,1,41.0,2.0,0.0,Early Teen
+4135cb0e,11,0,69.0,2.0,1.0,Early Teen
+4157be55,12,0,82.0,1.0,2.0,Early Teen
+415d5a1a,11,0,73.0,0.0,0.0,Early Teen
+416b6ba2,6,0,45.0,0.0,0.0,Early Teen
+4177e5e5,12,0,56.0,0.0,1.0,Early Teen
+41974cde,7,0,43.0,2.0,0.0,Early Teen
+419d05c6,15,1,68.0,2.0,2.0,Teen
+41bacefb,11,1,90.0,2.0,0.0,Early Teen
+41badf5d,12,0,49.0,2.0,1.0,Early Teen
+41cfd1db,18,0,100.0,3.0,3.0,Young Adult
+41d48900,12,1,45.0,0.0,0.0,Early Teen
+42309938,20,1,86.0,1.0,1.0,Adult
+423610ac,10,0,63.0,0.0,1.0,Early Teen
+4248261f,6,0,42.0,0.0,0.0,Early Teen
+4255e559,11,1,58.0,0.0,0.0,Early Teen
+4262ce3d,10,0,45.0,0.0,0.0,Early Teen
+427037b2,6,1,47.0,0.0,0.0,Early Teen
+427fad9e,13,0,46.0,1.0,2.0,Teen
+4280076d,10,0,46.0,0.0,0.0,Early Teen
+428970d4,9,0,79.0,1.0,1.0,Early Teen
+428c37ea,9,0,58.0,0.0,0.0,Early Teen
+429cc266,8,0,73.0,0.0,0.0,Early Teen
+42aa29fb,8,0,56.0,2.0,1.0,Early Teen
+42bf071e,9,0,72.0,0.0,2.0,Early Teen
+42c6f67a,7,0,54.0,0.0,0.0,Early Teen
+42dfc9dd,12,0,64.0,2.0,2.0,Early Teen
+42ebc3fd,8,0,68.0,2.0,0.0,Early Teen
+4307d287,12,0,72.0,1.0,1.0,Early Teen
+432a4c21,10,0,71.0,2.0,1.0,Early Teen
+432aff11,8,0,49.0,0.0,0.0,Early Teen
+435bfa7b,11,1,50.0,2.0,1.0,Early Teen
+43629a34,7,1,45.0,0.0,0.0,Early Teen
+436dd613,10,1,42.0,0.0,0.0,Early Teen
+43720c15,16,1,56.0,1.0,0.0,Young Adult
+43808706,17,0,56.0,3.0,2.0,Young Adult
+43a7386d,10,0,82.0,0.0,1.0,Early Teen
+43d43363,16,0,63.0,2.0,3.0,Young Adult
+43e54b20,11,0,55.0,0.0,1.0,Early Teen
+43f44f6c,14,1,40.0,1.0,2.0,Teen
+43f5d3c5,10,0,41.0,2.0,1.0,Early Teen
+43fb80d6,8,0,73.0,2.0,0.0,Early Teen
+43fdba8b,7,0,63.0,0.0,0.0,Early Teen
+440acf4f,7,1,54.0,0.0,0.0,Early Teen
+444131bc,6,0,46.0,1.0,0.0,Early Teen
+4442c376,5,0,51.0,2.0,0.0,Child
+446757cb,14,0,51.0,1.0,1.0,Teen
+4496d883,11,0,49.0,0.0,2.0,Early Teen
+44b8622c,13,1,62.0,3.0,0.0,Teen
+44cbf5c5,5,0,61.4,1.0,0.0,Child
+44eaea78,18,0,50.0,1.0,2.0,Young Adult
+4505724a,5,0,56.4,0.0,0.0,Child
+4507da27,10,0,84.0,2.0,1.0,Early Teen
+4518ed77,6,0,62.0,0.0,0.0,Early Teen
+451b0cd9,7,0,45.0,0.0,0.0,Early Teen
+451c11b3,9,0,54.0,2.0,0.0,Early Teen
+4570c8b8,7,0,58.0,2.0,0.0,Early Teen
+45ea366f,6,1,56.0,0.0,0.0,Early Teen
+45eb32f2,14,0,64.0,0.0,2.0,Teen
+46170319,8,0,49.0,0.0,0.0,Early Teen
+463bf3b2,7,0,51.0,0.0,0.0,Early Teen
+464a75fb,14,0,71.0,3.0,1.0,Teen
+4659aa1a,13,0,47.0,2.0,0.0,Teen
+465d3273,10,0,38.0,3.0,1.0,Early Teen
+466752d9,8,1,63.0,1.0,0.0,Early Teen
+467c549f,8,0,55.0,0.0,0.0,Early Teen
+46850373,9,0,45.0,0.0,0.0,Early Teen
+471e4d12,17,0,62.0,2.0,2.0,Young Adult
+47240aa3,7,0,45.0,1.0,0.0,Early Teen
+47350ac6,12,1,59.0,2.0,0.0,Early Teen
+475ebe47,7,1,50.0,0.0,0.0,Early Teen
+4777151c,12,1,81.0,0.0,2.0,Early Teen
+47a52eb8,14,1,71.0,2.0,1.0,Teen
+47b3bea1,6,0,56.0,0.0,2.0,Early Teen
+47c1f368,13,0,66.0,1.0,2.0,Teen
+47c3b47c,8,0,63.0,0.0,1.0,Early Teen
+47c55e13,8,0,62.0,2.0,0.0,Early Teen
+47fef4fc,9,1,43.0,0.0,0.0,Early Teen
+481a1861,12,0,40.0,0.0,0.0,Early Teen
+4829f7ca,11,0,59.0,2.0,0.0,Early Teen
+4859a9f9,6,0,60.2,0.0,0.0,Early Teen
+485d7c69,8,0,56.0,1.0,0.0,Early Teen
+489fa831,9,0,73.0,0.0,1.0,Early Teen
+48c205d9,8,0,66.0,0.0,0.0,Early Teen
+48db8ecf,5,0,59.2,0.0,0.0,Child
+48df987b,6,0,73.0,0.0,0.0,Early Teen
+48e69212,8,0,41.0,2.0,0.0,Early Teen
+491bf457,10,1,67.0,2.0,0.0,Early Teen
+4926b18a,9,1,59.0,0.0,0.0,Early Teen
+4940a214,12,1,54.0,2.0,1.0,Early Teen
+494eba8a,9,1,41.0,2.0,0.0,Early Teen
+4950e24c,14,0,56.0,0.0,0.0,Teen
+499d4499,15,1,55.0,3.0,0.0,Teen
+49a1931d,9,1,53.0,2.0,0.0,Early Teen
+49e4eade,9,1,59.0,1.0,0.0,Early Teen
+49f38606,6,0,60.0,0.0,0.0,Early Teen
+4a0b1b9d,14,0,50.0,1.0,1.0,Teen
+4a1440d9,6,0,59.8,3.0,2.0,Early Teen
+4a17b463,7,1,64.0,0.0,0.0,Early Teen
+4a21eb0c,10,0,94.0,1.0,0.0,Early Teen
+4a3b6521,6,0,53.0,2.0,1.0,Early Teen
+4a475a9f,18,1,72.0,3.0,1.0,Young Adult
+4a4a0f78,13,0,73.0,2.0,2.0,Teen
+4a62661a,10,0,50.0,0.0,1.0,Early Teen
+4a68d751,12,0,60.0,0.0,1.0,Early Teen
+4a69e534,8,0,50.0,0.0,0.0,Early Teen
+4a6af685,8,0,71.0,0.0,0.0,Early Teen
+4a6ea9de,14,1,49.0,2.0,2.0,Teen
+4a9f92ca,7,0,42.0,0.0,0.0,Early Teen
+4aa87859,8,0,50.0,0.0,0.0,Early Teen
+4ac5c412,6,0,45.0,0.0,0.0,Early Teen
+4acac04e,16,1,38.0,2.0,2.0,Young Adult
+4afa8a76,9,1,40.0,0.0,0.0,Early Teen
+4b0f961e,15,0,86.0,0.0,0.0,Teen
+4b1f6855,10,0,46.0,0.0,0.0,Early Teen
+4b20bce7,10,1,54.0,0.0,0.0,Early Teen
+4b328259,8,0,56.0,0.0,0.0,Early Teen
+4b3c7594,6,0,53.0,2.0,1.0,Early Teen
+4b3db4f4,7,1,55.0,2.0,0.0,Early Teen
+4b51db3e,7,0,50.0,0.0,0.0,Early Teen
+4b71830a,12,0,59.0,1.0,1.0,Early Teen
+4bc2bee9,8,1,60.0,2.0,0.0,Early Teen
+4be6f3c1,9,0,64.0,0.0,0.0,Early Teen
+4c238671,16,1,64.0,0.0,1.0,Young Adult
+4c37fb30,10,1,88.0,3.0,2.0,Early Teen
+4c8dfaf0,8,1,58.0,1.0,2.0,Early Teen
+4ca242ea,19,1,55.4,3.0,1.0,Adult
+4cabd7aa,12,1,80.0,0.0,0.0,Early Teen
+4cde1e34,10,0,69.0,0.0,1.0,Early Teen
+4d19854c,8,1,54.0,3.0,1.0,Early Teen
+4d2d9ef3,6,1,59.0,0.0,0.0,Early Teen
+4d41bb62,5,0,53.0,0.0,0.0,Child
+4d42caed,8,0,46.0,0.0,0.0,Early Teen
+4d5a8ce7,12,0,63.0,2.0,2.0,Early Teen
+4d61a44e,10,0,58.0,2.0,1.0,Early Teen
+4da4aba2,15,0,43.0,2.0,2.0,Teen
+4dc4ed56,8,0,75.0,0.0,0.0,Early Teen
+4dc86a42,7,0,49.0,2.0,0.0,Early Teen
+4decbcd8,9,1,54.0,0.0,0.0,Early Teen
+4dfb4e1d,11,0,60.0,3.0,2.0,Early Teen
+4e052db0,10,0,71.0,2.0,0.0,Early Teen
+4e314e47,10,1,46.0,0.0,0.0,Early Teen
+4e58d463,7,0,66.0,2.0,0.0,Early Teen
+4e6c7a75,9,1,58.0,1.0,1.0,Early Teen
+4e85505f,13,0,54.0,0.0,2.0,Teen
+4ea3963e,10,0,54.2,0.0,0.0,Early Teen
+4ea4e6c9,7,0,53.0,0.0,0.0,Early Teen
+4eade67b,6,0,82.0,0.0,0.0,Early Teen
+4edb98d8,17,0,53.0,2.0,2.0,Young Adult
+4f059221,6,1,54.2,0.0,0.0,Early Teen
+4f059a8a,15,0,62.0,1.0,0.0,Teen
+4f20b188,9,0,47.0,2.0,0.0,Early Teen
+4f2d0925,12,1,62.0,0.0,1.0,Early Teen
+4f3b33ba,12,0,41.0,0.0,1.0,Early Teen
+4f3cd5c2,17,1,51.0,3.0,2.0,Young Adult
+4f93504a,11,0,62.0,3.0,0.0,Early Teen
+4f96d1e7,10,1,54.0,0.0,0.0,Early Teen
+4fd7e043,5,0,54.2,0.0,0.0,Child
+4fe97569,13,0,54.0,1.0,0.0,Teen
+4ffa995b,14,0,68.0,2.0,0.0,Teen
+50242fa0,8,1,46.0,0.0,1.0,Early Teen
+504ed32b,7,0,47.0,0.0,0.0,Early Teen
+50707f1e,10,0,49.0,0.0,0.0,Early Teen
+508a0f98,10,1,82.0,2.0,2.0,Early Teen
+50a90725,22,1,69.0,2.0,1.0,Adult
+50b2b84b,15,0,50.0,2.0,0.0,Teen
+5124169c,14,1,55.0,2.0,1.0,Teen
+5132511c,12,1,84.0,2.0,1.0,Early Teen
+51364c23,9,0,51.0,1.0,2.0,Early Teen
+515402ee,7,1,59.0,2.0,0.0,Early Teen
+515dd683,13,0,50.0,0.0,1.0,Teen
+5180ff75,17,0,52.0,3.0,0.0,Young Adult
+518e5ae6,8,0,46.0,0.0,0.0,Early Teen
+5198e7b3,8,0,50.0,2.0,2.0,Early Teen
+51a349db,11,1,51.0,1.0,0.0,Early Teen
+51c15d22,18,0,64.0,2.0,1.0,Young Adult
+51eb8d14,10,0,42.0,2.0,0.0,Early Teen
+51f38b37,17,0,57.6,3.0,1.0,Young Adult
+51f3feb4,6,0,67.0,0.0,0.0,Early Teen
+5216ef61,12,0,67.0,1.0,1.0,Early Teen
+52219dbb,5,0,75.0,2.0,1.0,Child
+5264bb0e,12,0,79.0,2.0,1.0,Early Teen
+526f719b,6,0,62.0,0.0,0.0,Early Teen
+527e796c,10,0,51.0,0.0,2.0,Early Teen
+528db82d,9,0,69.0,1.0,1.0,Early Teen
+52bd147c,5,0,42.0,2.0,0.0,Child
+52ce9b8b,7,1,51.0,2.0,0.0,Early Teen
+52e9e467,8,0,88.0,2.0,0.0,Early Teen
+5320dac6,14,1,62.0,2.0,0.0,Teen
+53621b84,18,1,57.8,3.0,0.0,Young Adult
+537dc410,16,0,62.4,2.0,2.0,Young Adult
+53814642,9,1,49.0,3.0,1.0,Early Teen
+53905a2c,8,1,53.0,2.0,1.0,Early Teen
+53cf99f2,5,0,46.0,1.0,0.0,Child
+53d20dc3,6,0,38.0,0.0,0.0,Early Teen
+53ea1e7c,10,1,59.0,0.0,0.0,Early Teen
+53faf893,7,1,43.0,0.0,0.0,Early Teen
+54391716,12,1,56.0,2.0,0.0,Early Teen
+546bfb18,7,0,56.0,0.0,0.0,Early Teen
+54854783,13,0,46.0,0.0,0.0,Teen
+54868027,8,0,46.0,0.0,0.0,Early Teen
+54945f30,9,0,75.0,1.0,0.0,Early Teen
+549712ab,18,0,58.0,2.0,2.0,Young Adult
+54b35de5,14,0,77.0,3.0,0.0,Teen
+54c87d3c,9,0,43.0,2.0,2.0,Early Teen
+54e592da,16,0,53.6,0.0,0.0,Young Adult
+54fef303,9,0,55.0,1.0,0.0,Early Teen
+54ffe872,8,1,47.0,1.0,1.0,Early Teen
+55464fb7,8,1,85.0,0.0,1.0,Early Teen
+554e46e9,8,0,41.0,3.0,2.0,Early Teen
+556604d2,15,0,53.0,2.0,2.0,Teen
+5588f518,11,0,50.0,0.0,1.0,Early Teen
+55edb6ed,12,0,66.0,2.0,1.0,Early Teen
+55f9338e,9,1,56.0,0.0,0.0,Early Teen
+561f2797,6,0,59.0,0.0,0.0,Early Teen
+56210fdb,7,0,50.0,0.0,0.0,Early Teen
+5637a5a4,7,0,43.0,0.0,0.0,Early Teen
+563ebc00,10,0,43.0,0.0,1.0,Early Teen
+56418caf,10,0,54.0,1.0,2.0,Early Teen
+56443aba,9,0,59.0,0.0,1.0,Early Teen
+56761daf,11,0,53.0,1.0,2.0,Early Teen
+567ecea5,12,0,46.0,0.0,0.0,Early Teen
+567fd23a,13,0,49.0,3.0,1.0,Teen
+568eb64b,12,0,51.0,3.0,2.0,Early Teen
+56c99b23,6,0,55.0,0.0,0.0,Early Teen
+56cb7161,6,1,50.0,0.0,0.0,Early Teen
+56d9dead,8,1,49.0,0.0,0.0,Early Teen
+56ef356c,9,0,40.0,0.0,0.0,Early Teen
+571907fc,10,0,64.0,0.0,0.0,Early Teen
+574599a8,6,1,60.0,0.0,0.0,Early Teen
+574cb902,7,1,43.0,0.0,0.0,Early Teen
+5775ec58,14,1,55.0,2.0,1.0,Teen
+5779f2e9,5,1,54.0,2.0,0.0,Child
+579e50bd,12,1,42.0,1.0,0.0,Early Teen
+57c4f2b4,11,0,59.0,0.0,0.0,Early Teen
+57d82f30,12,1,53.0,2.0,0.0,Early Teen
+57de6095,6,0,54.2,0.0,0.0,Early Teen
+57f6fa6c,7,0,49.0,0.0,0.0,Early Teen
+580a30c5,13,1,80.0,2.0,2.0,Teen
+58391429,14,0,68.0,2.0,2.0,Teen
+58900fd0,8,1,50.0,0.0,0.0,Early Teen
+58a255e6,6,0,43.0,1.0,0.0,Early Teen
+58ada72e,7,0,77.0,2.0,1.0,Early Teen
+58de61f0,12,1,58.0,1.0,1.0,Early Teen
+58dfccdb,9,0,47.0,2.0,0.0,Early Teen
+58f11465,6,0,43.0,2.0,0.0,Early Teen
+592adca0,7,1,59.0,1.0,0.0,Early Teen
+592b3b7f,6,0,62.0,1.0,0.0,Early Teen
+59305d37,14,1,53.0,2.0,1.0,Teen
+59307c13,9,0,54.0,3.0,2.0,Early Teen
+593a7148,7,1,62.0,0.0,1.0,Early Teen
+593b5cfa,5,0,54.0,0.0,0.0,Child
+59402969,14,0,64.0,0.0,1.0,Teen
+5985f299,6,1,50.0,0.0,0.0,Early Teen
+599850d0,8,0,47.0,0.0,0.0,Early Teen
+59b7fc28,6,0,47.0,0.0,0.0,Early Teen
+59d7a3a9,6,0,49.0,2.0,0.0,Early Teen
+59ea397f,7,1,43.0,0.0,0.0,Early Teen
+5a07e79f,11,1,56.0,0.0,1.0,Early Teen
+5a2c7642,5,1,62.4,2.0,0.0,Child
+5a3005de,18,1,63.4,3.0,2.0,Young Adult
+5a313293,13,1,53.0,2.0,1.0,Teen
+5a3d5e05,6,0,73.0,2.0,1.0,Early Teen
+5a4b3725,10,0,76.0,1.0,1.0,Early Teen
+5a5f6d41,13,0,45.0,2.0,0.0,Teen
+5a5f9fb2,9,0,76.0,0.0,1.0,Early Teen
+5a8712ae,17,0,75.0,3.0,3.0,Young Adult
+5ac9eca0,7,0,54.0,0.0,0.0,Early Teen
+5ad85a02,7,1,62.0,1.0,0.0,Early Teen
+5af79adb,16,1,56.4,2.0,0.0,Young Adult
+5b299ae1,8,0,38.0,0.0,1.0,Early Teen
+5b2c9b83,14,1,66.0,1.0,1.0,Teen
+5b4d2604,8,1,66.0,0.0,0.0,Early Teen
+5b66b6f2,5,1,54.2,0.0,0.0,Child
+5b9ff85e,11,0,53.0,0.0,1.0,Early Teen
+5ba201ba,9,0,62.0,0.0,1.0,Early Teen
+5bcf002a,8,0,63.0,0.0,0.0,Early Teen
+5c045867,14,0,58.0,1.0,1.0,Teen
+5c186496,7,1,56.0,0.0,0.0,Early Teen
+5c22f241,7,0,46.0,0.0,0.0,Early Teen
+5c2c136d,10,0,76.0,3.0,2.0,Early Teen
+5c3b30d7,10,1,59.0,0.0,0.0,Early Teen
+5cd83147,12,0,54.0,0.0,0.0,Early Teen
+5d04624a,10,1,90.0,2.0,1.0,Early Teen
+5d1d7e41,7,1,59.0,0.0,0.0,Early Teen
+5d3b6ea5,8,0,89.0,0.0,1.0,Early Teen
+5d48a5b0,7,0,46.0,0.0,0.0,Early Teen
+5d762840,20,0,57.8,2.0,0.0,Adult
+5d805d83,17,1,50.0,2.0,0.0,Young Adult
+5d885b20,5,0,53.0,0.0,0.0,Child
+5daa20e7,8,0,55.0,0.0,0.0,Early Teen
+5dad24ff,17,1,82.0,1.0,0.0,Young Adult
+5db3db12,10,0,67.0,1.0,1.0,Early Teen
+5dc62fec,7,0,46.0,0.0,0.0,Early Teen
+5ddbac80,14,1,67.0,3.0,0.0,Teen
+5e08237d,10,0,49.0,2.0,1.0,Early Teen
+5e221c50,15,1,60.0,0.0,0.0,Teen
+5e2a9e63,6,0,61.8,1.0,1.0,Early Teen
+5e2c1349,13,0,71.0,1.0,1.0,Teen
+5e359a08,15,0,62.0,1.0,2.0,Teen
+5e415f05,16,0,45.0,3.0,2.0,Young Adult
+5e55e9fd,14,1,62.0,3.0,3.0,Teen
+5e57bd12,14,0,63.0,2.0,0.0,Teen
+5e614c1a,11,0,69.0,3.0,2.0,Early Teen
+5e6490e3,9,0,46.0,0.0,0.0,Early Teen
+5e6b528e,6,0,79.0,0.0,0.0,Early Teen
+5ea2c305,12,0,59.0,2.0,1.0,Early Teen
+5eb063e0,8,0,71.0,1.0,0.0,Early Teen
+5ed5f205,8,1,41.0,0.0,0.0,Early Teen
+5ee595e8,8,0,82.0,0.0,0.0,Early Teen
+5ef3d64e,15,1,58.0,3.0,2.0,Teen
+5f099188,8,1,54.0,0.0,0.0,Early Teen
+5f1b07e1,18,1,47.6,3.0,0.0,Young Adult
+5f281a62,15,0,42.0,0.0,0.0,Teen
+5f37ceb1,12,0,47.0,3.0,1.0,Early Teen
+5f574f3d,9,1,63.0,0.0,0.0,Early Teen
+5f7537cf,14,0,46.0,2.0,0.0,Teen
+5f78f7b9,9,1,54.0,0.0,0.0,Early Teen
+5f9dddb4,10,0,62.0,0.0,2.0,Early Teen
+5fa91358,9,1,59.0,2.0,0.0,Early Teen
+5fdfbe47,8,1,58.0,1.0,0.0,Early Teen
+603ab4ee,6,0,42.0,0.0,1.0,Early Teen
+605d6e05,10,1,53.0,1.0,0.0,Early Teen
+606e979d,10,0,79.0,2.0,1.0,Early Teen
+60c1ff37,8,0,76.0,0.0,0.0,Early Teen
+60d1fdee,6,1,47.0,0.0,0.0,Early Teen
+60d2774d,6,0,63.0,0.0,0.0,Early Teen
+60f8462b,7,0,59.0,0.0,0.0,Early Teen
+60fb7cb9,13,0,59.0,0.0,1.0,Teen
+612487a5,15,1,71.0,3.0,1.0,Teen
+612b3ff9,12,0,47.0,0.0,0.0,Early Teen
+612dd900,8,0,56.0,0.0,1.0,Early Teen
+613fc399,10,1,64.0,0.0,0.0,Early Teen
+613fc53d,5,0,50.0,2.0,0.0,Child
+614d5517,10,0,53.0,1.0,1.0,Early Teen
+616fc21f,5,0,46.2,2.0,0.0,Child
+61823525,8,0,58.0,0.0,0.0,Early Teen
+6187d0dc,7,1,40.0,0.0,0.0,Early Teen
+6192e6b6,13,0,50.0,2.0,1.0,Teen
+6197a2ce,10,0,100.0,0.0,0.0,Early Teen
+620536d0,6,0,90.0,0.0,1.0,Early Teen
+621066ff,9,0,47.0,3.0,2.0,Early Teen
+622bb412,6,1,51.0,0.0,0.0,Early Teen
+6247cc15,12,0,56.0,1.0,1.0,Early Teen
+624869b6,10,0,66.0,1.0,2.0,Early Teen
+624b9e34,8,1,50.0,1.0,0.0,Early Teen
+626a608e,13,1,71.0,2.0,2.0,Teen
+6277e13c,8,0,89.0,0.0,0.0,Early Teen
+6282e693,5,0,54.4,0.0,0.0,Child
+62839132,6,0,75.0,0.0,0.0,Early Teen
+6291fddd,15,0,63.0,0.0,2.0,Teen
+62b873a2,7,0,55.0,2.0,1.0,Early Teen
+62cd5c74,12,0,56.0,1.0,2.0,Early Teen
+62d0cf97,15,1,62.0,2.0,2.0,Teen
+62f77d2f,9,1,82.0,0.0,1.0,Early Teen
+632eca98,11,0,45.0,1.0,0.0,Early Teen
+6332ad59,8,0,49.0,0.0,0.0,Early Teen
+63334478,8,0,63.0,0.0,0.0,Early Teen
+6344bba1,14,0,62.0,3.0,2.0,Teen
+635554d2,8,0,54.0,1.0,0.0,Early Teen
+63a00e40,9,0,46.0,1.0,0.0,Early Teen
+63d4ab9a,7,0,73.0,0.0,0.0,Early Teen
+63d810bb,10,1,60.0,2.0,0.0,Early Teen
+63dd16ec,7,0,49.0,0.0,0.0,Early Teen
+63fc9770,12,1,62.0,1.0,2.0,Early Teen
+641697e6,8,0,53.0,0.0,0.0,Early Teen
+641a2b87,10,1,58.0,0.0,0.0,Early Teen
+646a4c0e,11,0,43.0,2.0,2.0,Early Teen
+649ff6d9,12,0,53.0,3.0,2.0,Early Teen
+64b4005d,10,1,63.0,2.0,1.0,Early Teen
+64ed48c4,11,0,63.0,3.0,2.0,Early Teen
+64fc556b,6,0,45.0,0.0,0.0,Early Teen
+650bf252,8,0,51.0,0.0,0.0,Early Teen
+6514c337,9,1,49.0,2.0,0.0,Early Teen
+6515ef94,7,1,58.0,0.0,0.0,Early Teen
+654203ec,9,1,66.0,0.0,0.0,Early Teen
+658e66ec,13,1,58.0,2.0,2.0,Teen
+6595d479,16,0,47.8,1.0,1.0,Young Adult
+659fec57,10,1,69.0,0.0,0.0,Early Teen
+65af9f2a,7,0,81.0,0.0,0.0,Early Teen
+65dc81f5,14,1,43.0,1.0,0.0,Teen
+65dfe4b9,12,0,76.0,2.0,0.0,Early Teen
+65f9369d,11,0,45.0,0.0,0.0,Early Teen
+65fe69c0,14,0,72.0,2.0,1.0,Teen
+66094cfd,11,0,43.0,2.0,0.0,Early Teen
+6622b302,7,0,56.0,0.0,0.0,Early Teen
+665abfda,11,1,49.0,0.0,1.0,Early Teen
+66665e95,11,0,60.0,0.0,2.0,Early Teen
+6666aed3,15,1,54.0,2.0,1.0,Teen
+6672e527,8,1,58.0,0.0,0.0,Early Teen
+668a2fea,9,0,47.0,2.0,0.0,Early Teen
+6699c999,8,1,55.0,0.0,0.0,Early Teen
+66d86d0b,12,0,54.0,1.0,0.0,Early Teen
+66ed301e,10,0,49.0,0.0,0.0,Early Teen
+66f044c7,9,1,63.0,2.0,1.0,Early Teen
+66f619e3,13,0,60.0,2.0,2.0,Teen
+6708fcd9,6,0,56.0,0.0,0.0,Early Teen
+672a32f1,9,1,38.0,0.0,0.0,Early Teen
+673a7e2a,7,0,54.0,0.0,0.0,Early Teen
+673e7be9,12,0,49.0,2.0,1.0,Early Teen
+677038b5,8,1,45.0,0.0,0.0,Early Teen
+6774ba64,6,0,63.0,0.0,0.0,Early Teen
+678598dd,5,0,54.2,0.0,0.0,Child
+6795027a,11,1,54.0,0.0,0.0,Early Teen
+679ce4b2,12,0,53.0,2.0,2.0,Early Teen
+67b54cdb,8,0,49.0,0.0,0.0,Early Teen
+682327c3,7,0,59.0,0.0,0.0,Early Teen
+6826f0be,10,0,63.0,1.0,1.0,Early Teen
+683464ff,10,0,54.0,1.0,0.0,Early Teen
+68572a28,5,1,54.2,0.0,0.0,Child
+685cc0f1,15,0,51.0,2.0,2.0,Teen
+68688509,9,0,71.0,2.0,0.0,Early Teen
+687c85e7,11,0,41.0,0.0,0.0,Early Teen
+6885737e,10,0,59.0,0.0,1.0,Early Teen
+68a59e56,7,0,54.0,0.0,1.0,Early Teen
+68be3d5c,10,1,49.0,0.0,0.0,Early Teen
+68be5113,5,0,54.2,0.0,0.0,Child
+68d49292,9,1,56.0,0.0,0.0,Early Teen
+68e514dc,13,0,46.0,0.0,0.0,Teen
+68e61f96,11,1,47.0,0.0,0.0,Early Teen
+68e7140b,16,0,69.0,2.0,0.0,Young Adult
+68fa4631,9,0,55.0,0.0,0.0,Early Teen
+69074cf3,7,1,45.0,0.0,1.0,Early Teen
+69742f6f,13,0,55.0,1.0,2.0,Teen
+697c41d7,9,0,53.0,2.0,2.0,Early Teen
+697d894b,15,1,58.0,3.0,1.0,Teen
+698b9067,9,0,55.0,0.0,1.0,Early Teen
+69b65679,8,1,56.0,0.0,0.0,Early Teen
+69ccea20,9,0,49.0,0.0,0.0,Early Teen
+69cdf9c3,10,0,50.0,2.0,1.0,Early Teen
+69fabb6b,14,0,51.0,2.0,2.0,Teen
+6a04461f,9,1,62.0,0.0,2.0,Early Teen
+6a138911,6,0,95.0,0.0,0.0,Early Teen
+6a16089d,10,1,43.0,2.0,0.0,Early Teen
+6a2c6073,11,1,69.0,2.0,1.0,Early Teen
+6a2fd807,16,0,59.0,2.0,1.0,Young Adult
+6a4df6ff,5,1,57.8,0.0,0.0,Child
+6a6da46c,14,1,58.0,0.0,1.0,Teen
+6a7d07fb,9,0,56.0,0.0,0.0,Early Teen
+6a837387,8,0,49.0,0.0,0.0,Early Teen
+6a83a423,9,0,58.0,0.0,1.0,Early Teen
+6a864b11,9,0,100.0,3.0,1.0,Early Teen
+6a98537b,6,1,98.0,0.0,0.0,Early Teen
+6a9f0db7,7,1,42.0,0.0,0.0,Early Teen
+6abd21d4,12,1,55.0,1.0,1.0,Early Teen
+6abd2bd4,12,0,53.0,1.0,1.0,Early Teen
+6abe8b60,8,0,59.0,0.0,0.0,Early Teen
+6ac5763a,16,1,57.2,2.0,2.0,Young Adult
+6ac5eaaf,7,0,56.0,0.0,1.0,Early Teen
+6ad91972,12,0,51.0,0.0,0.0,Early Teen
+6ae1473e,10,1,50.0,0.0,1.0,Early Teen
+6b4b8c14,15,0,63.0,0.0,1.0,Teen
+6b6467f4,16,1,68.0,2.0,2.0,Young Adult
+6b773506,14,1,50.0,2.0,1.0,Teen
+6be0f069,7,0,69.0,0.0,0.0,Early Teen
+6be56337,16,1,57.6,2.0,0.0,Young Adult
+6becb599,6,1,58.0,0.0,0.0,Early Teen
+6c0fe935,18,0,45.0,1.0,0.0,Young Adult
+6c2edc91,11,1,51.0,3.0,0.0,Early Teen
+6c319d99,7,1,59.0,0.0,0.0,Early Teen
+6c4902c8,8,0,89.0,2.0,0.0,Early Teen
+6c6cd633,10,0,66.0,0.0,2.0,Early Teen
+6c737069,8,0,58.0,0.0,1.0,Early Teen
+6d341798,8,0,49.0,0.0,0.0,Early Teen
+6d5944a9,11,1,50.0,0.0,0.0,Early Teen
+6d5c5afb,7,0,81.0,0.0,0.0,Early Teen
+6d707ac3,20,1,59.6,3.0,2.0,Adult
+6d70e716,12,1,60.0,2.0,2.0,Early Teen
+6d7ba819,7,1,55.0,0.0,1.0,Early Teen
+6d855495,11,0,50.0,2.0,0.0,Early Teen
+6db14d48,10,1,54.0,2.0,1.0,Early Teen
+6db453ce,17,0,67.0,2.0,2.0,Young Adult
+6dfe4a75,15,1,71.0,2.0,1.0,Teen
+6e0d4774,10,0,86.0,2.0,1.0,Early Teen
+6e0ec0fe,9,0,73.0,1.0,1.0,Early Teen
+6e128c6b,14,1,51.0,2.0,0.0,Teen
+6e1d28b6,8,0,62.0,2.0,0.0,Early Teen
+6e5606d5,9,1,63.0,0.0,1.0,Early Teen
+6e68bcfd,9,0,53.0,2.0,1.0,Early Teen
+6e695d70,10,0,60.0,1.0,2.0,Early Teen
+6e6d895f,8,0,51.0,2.0,0.0,Early Teen
+6e85a624,10,1,49.0,0.0,2.0,Early Teen
+6e89cee5,9,1,58.0,3.0,0.0,Early Teen
+6e9beaee,15,0,64.0,2.0,1.0,Teen
+6ea48a4e,8,1,53.0,1.0,0.0,Early Teen
+6ebfdc95,13,0,47.0,1.0,0.0,Teen
+6ecb430a,8,0,51.0,1.0,1.0,Early Teen
+6ed385f6,11,0,77.0,3.0,1.0,Early Teen
+6eff29da,6,0,55.0,0.0,1.0,Early Teen
+6f49c8d0,6,1,53.0,2.0,0.0,Early Teen
+6f5677b7,12,0,69.0,0.0,0.0,Early Teen
+6f5a31ea,9,1,50.0,0.0,1.0,Early Teen
+6f878799,11,0,41.0,1.0,0.0,Early Teen
+6fb28c2a,5,1,49.6,0.0,0.0,Child
+6fc6b5c4,8,1,53.0,2.0,0.0,Early Teen
+6fc95dfc,7,1,68.0,0.0,0.0,Early Teen
+6fcdcb2a,12,0,43.0,1.0,0.0,Early Teen
+7015528d,11,0,53.0,0.0,0.0,Early Teen
+707c82c4,6,0,59.0,1.0,1.0,Early Teen
+7092a6ce,14,1,64.0,2.0,2.0,Teen
+709457f3,9,0,49.0,0.0,1.0,Early Teen
+70de1c63,17,0,53.0,2.0,2.0,Young Adult
+710345b6,6,0,49.0,0.0,0.0,Early Teen
+7106a387,11,1,42.0,1.0,0.0,Early Teen
+7151d8b5,5,0,59.0,2.0,0.0,Child
+71850348,8,1,68.0,0.0,0.0,Early Teen
+71852781,7,0,60.0,2.0,0.0,Early Teen
+7187caec,11,0,89.0,2.0,2.0,Early Teen
+718975fe,10,0,54.0,0.0,0.0,Early Teen
+7192b2e8,9,0,51.0,0.0,0.0,Early Teen
+71c1b1d2,8,1,55.0,0.0,0.0,Early Teen
+71cf0f87,8,0,45.0,0.0,0.0,Early Teen
+71ee31f8,8,0,56.0,0.0,0.0,Early Teen
+71f21593,15,0,68.0,3.0,2.0,Teen
+71ffd0ba,8,0,60.0,0.0,0.0,Early Teen
+7214ad21,13,1,64.0,1.0,1.0,Teen
+721ea536,12,0,43.0,2.0,0.0,Early Teen
+72264d13,12,1,53.0,0.0,1.0,Early Teen
+723ee34c,10,0,50.0,0.0,0.0,Early Teen
+7250264b,8,0,46.0,0.0,0.0,Early Teen
+72565f5c,8,0,53.0,1.0,0.0,Early Teen
+7265f1e5,7,0,50.0,0.0,0.0,Early Teen
+7290824a,15,0,69.0,2.0,2.0,Teen
+72a0c969,9,0,42.0,0.0,0.0,Early Teen
+72aa1a30,12,0,90.0,2.0,2.0,Early Teen
+72afd4ca,12,1,71.0,1.0,0.0,Early Teen
+72bbfadf,13,0,54.0,0.0,1.0,Teen
+72c9c38d,11,0,47.0,0.0,1.0,Early Teen
+72cb1703,8,0,42.0,0.0,0.0,Early Teen
+72cc9a64,10,0,42.0,2.0,0.0,Early Teen
+72fa40ba,14,0,47.0,2.0,2.0,Teen
+7305af8b,9,0,45.0,0.0,0.0,Early Teen
+7308d22c,10,0,50.0,0.0,1.0,Early Teen
+732b2327,9,1,60.0,2.0,0.0,Early Teen
+7347b54e,6,0,46.0,0.0,0.0,Early Teen
+738e7248,11,0,72.0,0.0,1.0,Early Teen
+73aa6aab,13,0,60.0,1.0,1.0,Teen
+73d0e0a0,10,0,49.0,2.0,0.0,Early Teen
+73ec551e,7,1,42.0,0.0,0.0,Early Teen
+73ffa609,15,0,62.0,2.0,0.0,Teen
+745e6065,8,0,60.0,2.0,1.0,Early Teen
+7494989e,6,1,50.0,0.0,0.0,Early Teen
+7498fbde,17,1,55.6,1.0,1.0,Young Adult
+74be50af,8,1,58.0,0.0,0.0,Early Teen
+74c2bd81,11,0,80.0,0.0,1.0,Early Teen
+7514c6f4,13,0,68.0,3.0,2.0,Teen
+75311a3f,17,1,51.0,2.0,0.0,Young Adult
+7533a4a9,9,0,64.0,2.0,0.0,Early Teen
+75927c18,14,1,71.0,2.0,1.0,Teen
+759328e6,12,0,76.0,1.0,2.0,Early Teen
+75ad73ee,9,1,46.0,0.0,0.0,Early Teen
+75b0446f,12,0,50.0,0.0,0.0,Early Teen
+75b53bd4,8,1,62.0,0.0,1.0,Early Teen
+75bcc1e0,7,0,59.0,1.0,1.0,Early Teen
+75c13e08,11,1,60.0,0.0,1.0,Early Teen
+75db1257,10,0,46.0,3.0,1.0,Early Teen
+75f26948,21,1,60.0,2.0,3.0,Adult
+764d8b42,8,1,55.0,0.0,0.0,Early Teen
+76781cd8,8,0,50.0,2.0,1.0,Early Teen
+7698543b,13,0,42.0,2.0,0.0,Teen
+76c9bf0e,10,0,58.0,1.0,1.0,Early Teen
+76dc0e9f,5,0,54.2,2.0,0.0,Child
+76dfa86c,9,1,43.0,0.0,0.0,Early Teen
+76f8f621,9,0,51.0,2.0,1.0,Early Teen
+76fb4afb,6,0,51.0,0.0,1.0,Early Teen
+76ff59f2,6,0,81.0,0.0,0.0,Early Teen
+7752d450,16,1,64.0,2.0,2.0,Young Adult
+776d33af,14,0,59.0,3.0,1.0,Teen
+777a3e9d,16,1,72.0,2.0,2.0,Young Adult
+77941a98,8,1,76.0,0.0,0.0,Early Teen
+77a5b2ad,8,1,60.0,0.0,0.0,Early Teen
+77bfe07c,13,1,56.0,2.0,0.0,Teen
+77e460ce,9,0,43.0,1.0,0.0,Early Teen
+7800a084,13,1,51.0,2.0,2.0,Teen
+781710fe,7,1,41.0,0.0,0.0,Early Teen
+782a0589,10,1,85.0,0.0,0.0,Early Teen
+782af70b,14,1,60.0,0.0,1.0,Teen
+7858fd16,6,0,59.0,1.0,0.0,Early Teen
+785d0663,16,1,59.0,1.0,0.0,Young Adult
+7860b64c,10,0,49.0,1.0,1.0,Early Teen
+78667893,8,0,41.0,0.0,2.0,Early Teen
+78704d22,11,1,77.0,1.0,1.0,Early Teen
+787654dd,7,0,47.0,0.0,0.0,Early Teen
+788268a4,6,0,60.0,0.0,0.0,Early Teen
+78a34e5d,8,1,62.0,0.0,0.0,Early Teen
+78b488ff,9,0,47.0,0.0,0.0,Early Teen
+7914b38b,12,0,71.0,3.0,2.0,Early Teen
+792d2fa5,13,1,54.0,0.0,3.0,Teen
+793c2e31,6,0,50.0,2.0,0.0,Early Teen
+79483148,11,0,43.0,2.0,1.0,Early Teen
+7958e61b,11,0,58.0,2.0,1.0,Early Teen
+79629cf4,14,1,43.0,0.0,1.0,Teen
+7975694f,8,0,55.0,0.0,0.0,Early Teen
+79bd36b6,14,0,53.0,2.0,1.0,Teen
+79de3beb,10,1,80.0,0.0,0.0,Early Teen
+79e496f2,14,1,59.0,2.0,2.0,Teen
+7a0136e0,11,0,71.0,2.0,0.0,Early Teen
+7a5fccc9,6,0,75.0,0.0,1.0,Early Teen
+7a6d26a2,6,1,64.0,3.0,0.0,Early Teen
+7a86fcd2,17,1,50.0,1.0,2.0,Young Adult
+7aa3a145,5,0,50.4,0.0,0.0,Child
+7ad92034,12,1,60.0,0.0,1.0,Early Teen
+7af8eac0,6,0,50.6,0.0,0.0,Early Teen
+7b0a4060,7,0,46.0,1.0,0.0,Early Teen
+7b516283,11,1,45.0,1.0,0.0,Early Teen
+7b543871,7,0,55.0,2.0,1.0,Early Teen
+7b78e634,11,0,50.0,2.0,2.0,Early Teen
+7b8842c3,16,0,62.2,2.0,2.0,Young Adult
+7b9690de,7,1,49.0,3.0,0.0,Early Teen
+7bbde46f,5,0,63.0,0.0,2.0,Child
+7bdbf66f,7,0,66.0,0.0,2.0,Early Teen
+7c02f4ec,15,0,100.0,3.0,2.0,Teen
+7c194077,15,0,77.0,2.0,1.0,Teen
+7c1d7ddd,10,0,45.0,0.0,1.0,Early Teen
+7c21ad67,8,1,80.0,2.0,0.0,Early Teen
+7c29e92d,7,0,80.0,2.0,1.0,Early Teen
+7c39c8e5,7,0,59.0,2.0,0.0,Early Teen
+7c6ca1d4,10,0,77.0,2.0,1.0,Early Teen
+7c6cbfdd,7,0,45.0,0.0,0.0,Early Teen
+7c71edac,12,0,56.0,0.0,0.0,Early Teen
+7c8f0c95,17,0,75.0,1.0,2.0,Young Adult
+7ca548f9,8,0,41.0,0.0,0.0,Early Teen
+7cb1e4c7,9,1,62.0,0.0,0.0,Early Teen
+7ccdb9f2,14,1,54.0,2.0,0.0,Teen
+7ce36c38,16,1,50.0,0.0,0.0,Young Adult
+7cf3bca6,8,0,75.0,0.0,0.0,Early Teen
+7d0a92d5,12,1,46.0,2.0,0.0,Early Teen
+7d22cd0a,7,1,67.0,0.0,1.0,Early Teen
+7d2f236b,7,1,50.0,0.0,0.0,Early Teen
+7d40a714,16,0,73.0,2.0,2.0,Young Adult
+7d666f0f,16,1,47.0,0.0,2.0,Young Adult
+7d751a6a,18,1,62.0,2.0,0.0,Young Adult
+7d878d0d,8,0,80.0,2.0,1.0,Early Teen
+7d8f1716,12,0,54.0,1.0,1.0,Early Teen
+7d927bdf,5,0,73.0,2.0,0.0,Child
+7dae6de9,9,0,55.0,0.0,1.0,Early Teen
+7dc65b92,14,0,43.0,0.0,0.0,Teen
+7dd54e69,16,0,47.0,0.0,2.0,Young Adult
+7deeb4fe,18,0,62.0,3.0,0.0,Young Adult
+7df487b1,14,1,40.0,0.0,0.0,Teen
+7e33976b,7,0,43.0,0.0,0.0,Early Teen
+7e41db05,11,0,63.0,2.0,1.0,Early Teen
+7e46b693,12,1,67.0,2.0,1.0,Early Teen
+7e71aa83,8,0,67.0,2.0,0.0,Early Teen
+7e87087b,14,0,58.0,2.0,0.0,Teen
+7ebca7c4,8,1,73.0,1.0,0.0,Early Teen
+7ec65d94,9,0,45.0,0.0,0.0,Early Teen
+7ecea16d,8,0,41.0,0.0,0.0,Early Teen
+7f04b4fc,11,1,46.0,1.0,1.0,Early Teen
+7f1063e4,13,0,55.0,2.0,1.0,Teen
+7f26f78c,14,0,59.0,2.0,1.0,Teen
+7f2715b4,10,0,45.0,0.0,0.0,Early Teen
+7f44236f,13,0,66.0,0.0,3.0,Teen
+7f5aeb05,7,0,46.0,2.0,0.0,Early Teen
+7f950ef2,17,1,75.0,2.0,3.0,Young Adult
+7fa51811,18,0,55.4,2.0,2.0,Young Adult
+7fa7ccc4,9,1,45.0,0.0,0.0,Early Teen
+7fceb836,13,0,72.0,0.0,0.0,Teen
+7fcf0046,11,1,50.0,3.0,1.0,Early Teen
+7fd40f2b,9,0,62.0,2.0,1.0,Early Teen
+7fe0a99a,21,1,43.0,2.0,0.0,Adult
+8017f13e,14,1,43.0,3.0,0.0,Teen
+8033847f,15,0,55.0,0.0,1.0,Teen
+8068fafb,9,0,43.0,0.0,0.0,Early Teen
+806d877f,8,0,59.0,1.0,1.0,Early Teen
+80784c40,10,0,64.0,0.0,0.0,Early Teen
+8078b7de,10,0,84.0,0.0,1.0,Early Teen
+807d8908,11,1,54.0,2.0,1.0,Early Teen
+80a5f1e1,9,0,60.0,2.0,0.0,Early Teen
+80a9f2bb,7,0,47.0,0.0,0.0,Early Teen
+80b46ffb,13,0,58.0,2.0,1.0,Teen
+80d8829a,9,1,47.0,0.0,0.0,Early Teen
+80ed2bcf,15,0,64.0,2.0,1.0,Teen
+81095901,8,0,55.0,0.0,0.0,Early Teen
+812f6873,10,0,49.0,0.0,0.0,Early Teen
+81364a4b,14,0,55.0,2.0,1.0,Teen
+81394e0e,10,0,66.0,0.0,1.0,Early Teen
+813e7f93,7,1,55.0,0.0,0.0,Early Teen
+8148c785,12,0,84.0,2.0,3.0,Early Teen
+816b0564,12,0,49.0,2.0,0.0,Early Teen
+81766b8a,11,1,54.0,1.0,0.0,Early Teen
+8189aa29,12,0,62.0,0.0,2.0,Early Teen
+819ad5f1,6,1,68.0,0.0,0.0,Early Teen
+81a4b826,7,0,60.0,1.0,0.0,Early Teen
+81c0b83c,10,1,53.0,0.0,1.0,Early Teen
+81d3ab22,12,0,56.0,2.0,0.0,Early Teen
+81d607bb,7,0,45.0,0.0,0.0,Early Teen
+81eaf4c1,8,1,40.0,0.0,0.0,Early Teen
+81f60502,8,0,59.0,1.0,1.0,Early Teen
+81feecad,10,0,49.0,2.0,0.0,Early Teen
+8226bbd4,7,1,53.0,1.0,1.0,Early Teen
+82422684,11,0,43.0,3.0,0.0,Early Teen
+8256a969,6,1,68.0,0.0,0.0,Early Teen
+828b31ca,7,0,51.0,0.0,0.0,Early Teen
+82923551,6,0,49.0,0.0,0.0,Early Teen
+82a114c1,11,0,72.0,0.0,2.0,Early Teen
+82ec9747,8,1,58.0,0.0,0.0,Early Teen
+8310a02f,9,0,59.0,0.0,0.0,Early Teen
+8328c8b3,19,0,54.0,1.0,0.0,Adult
+83379672,7,0,62.0,0.0,1.0,Early Teen
+836b4de3,13,0,62.0,0.0,0.0,Teen
+83711ef5,15,1,40.0,2.0,1.0,Teen
+8376acc5,8,1,64.0,0.0,0.0,Early Teen
+83846d0c,6,0,63.0,0.0,0.0,Early Teen
+83912085,8,1,56.0,1.0,0.0,Early Teen
+839b507a,6,1,45.0,0.0,0.0,Early Teen
+83c33097,7,0,53.0,2.0,0.0,Early Teen
+83eda373,7,0,60.0,0.0,0.0,Early Teen
+83fb5ee0,6,0,46.0,0.0,0.0,Early Teen
+840ff4b7,6,0,53.0,0.0,0.0,Early Teen
+844b87f8,6,1,47.0,2.0,0.0,Early Teen
+844be9e4,7,0,58.0,0.0,0.0,Early Teen
+84875079,8,0,50.0,1.0,0.0,Early Teen
+84a16b14,6,1,63.0,3.0,0.0,Early Teen
+84b7d89d,12,1,49.0,3.0,1.0,Early Teen
+851b425b,5,0,55.6,2.0,0.0,Child
+852adec2,8,0,49.0,0.0,0.0,Early Teen
+85452335,11,0,58.0,1.0,1.0,Early Teen
+854eb237,11,1,53.0,0.0,0.0,Early Teen
+85525f8d,9,1,43.0,2.0,0.0,Early Teen
+855c6099,8,1,80.0,0.0,1.0,Early Teen
+8570ea5f,9,0,62.0,2.0,0.0,Early Teen
+8572d442,15,1,42.0,3.0,0.0,Teen
+857baaa6,10,0,62.0,2.0,0.0,Early Teen
+8581b9a1,12,1,56.0,2.0,1.0,Early Teen
+858ae6a3,12,1,53.0,2.0,2.0,Early Teen
+858be19a,12,1,58.0,1.0,1.0,Early Teen
+859cbb27,8,1,49.0,0.0,0.0,Early Teen
+85a1082c,11,0,53.0,0.0,0.0,Early Teen
+85b027ee,9,1,64.0,0.0,0.0,Early Teen
+85ba333f,11,0,43.0,0.0,2.0,Early Teen
+85d99199,16,0,58.0,2.0,0.0,Young Adult
+85d9c915,8,0,45.0,0.0,0.0,Early Teen
+85f23af6,9,0,47.0,0.0,1.0,Early Teen
+860f4f9c,10,0,58.0,0.0,2.0,Early Teen
+861188f4,10,0,53.0,3.0,2.0,Early Teen
+861fd4a0,7,0,41.0,0.0,0.0,Early Teen
+86335468,11,0,46.0,2.0,1.0,Early Teen
+863e40c7,10,0,59.0,2.0,0.0,Early Teen
+863f7033,18,1,60.0,2.0,0.0,Young Adult
+866a08b7,8,0,49.0,0.0,1.0,Early Teen
+86a8e0d6,11,0,66.0,2.0,1.0,Early Teen
+86bd716a,17,0,65.8,2.0,2.0,Young Adult
+86e56299,13,1,55.0,2.0,1.0,Teen
+87050a09,8,0,56.0,2.0,0.0,Early Teen
+871b2b19,10,1,53.0,0.0,0.0,Early Teen
+874a348f,13,0,56.0,2.0,2.0,Teen
+87509a7b,8,0,58.0,0.0,0.0,Early Teen
+876a929e,14,0,60.0,3.0,2.0,Teen
+8772f64b,13,0,49.0,2.0,0.0,Teen
+87a60251,7,0,45.0,0.0,0.0,Early Teen
+87af775e,9,0,43.0,1.0,2.0,Early Teen
+87b78ee3,11,0,95.0,0.0,2.0,Early Teen
+8823b020,12,0,43.0,0.0,1.0,Early Teen
+88300a4b,15,0,56.0,2.0,0.0,Teen
+884c429c,6,1,58.0,0.0,0.0,Early Teen
+8875387b,16,0,46.0,2.0,0.0,Young Adult
+8877cdee,9,0,47.0,0.0,0.0,Early Teen
+888c45f9,8,1,51.0,0.0,1.0,Early Teen
+88c640b9,20,0,68.0,3.0,1.0,Adult
+88cdb5bd,13,0,64.0,2.0,2.0,Teen
+88e04d93,13,1,50.0,2.0,1.0,Teen
+891193eb,8,0,100.0,0.0,0.0,Early Teen
+891b8cd5,11,0,55.0,3.0,0.0,Early Teen
+89261ca6,8,0,60.0,0.0,0.0,Early Teen
+893293dd,7,1,59.0,0.0,0.0,Early Teen
+895f9725,16,1,50.0,3.0,0.0,Young Adult
+89739b1a,9,0,59.0,0.0,0.0,Early Teen
+897da2c8,6,0,58.0,0.0,0.0,Early Teen
+898096eb,6,0,49.0,0.0,0.0,Early Teen
+89a26502,10,1,64.0,0.0,0.0,Early Teen
+89bd10b7,13,0,50.0,2.0,2.0,Teen
+89d475e2,14,1,75.0,3.0,2.0,Teen
+89d7d2c3,7,0,50.0,0.0,0.0,Early Teen
+8a444a98,7,0,55.0,1.0,0.0,Early Teen
+8a44ea3a,7,0,51.0,0.0,0.0,Early Teen
+8a4d341b,10,0,58.0,0.0,0.0,Early Teen
+8a4e5d1a,10,0,81.0,2.0,0.0,Early Teen
+8a645723,14,1,63.0,2.0,1.0,Teen
+8a6b6912,7,1,63.0,0.0,0.0,Early Teen
+8a77c3e9,10,0,56.0,3.0,1.0,Early Teen
+8a77d185,16,0,60.0,2.0,2.0,Young Adult
+8a78a063,9,0,41.0,0.0,0.0,Early Teen
+8a9cce44,11,1,46.0,1.0,2.0,Early Teen
+8a9e653f,6,1,54.2,0.0,0.0,Early Teen
+8abbbc38,10,1,58.0,0.0,0.0,Early Teen
+8ad5e251,6,0,46.0,0.0,0.0,Early Teen
+8ae6a52f,14,1,64.0,3.0,0.0,Teen
+8b02eb7e,16,0,80.0,1.0,0.0,Young Adult
+8b3c900f,11,0,42.0,0.0,0.0,Early Teen
+8b4b9648,8,0,79.0,0.0,1.0,Early Teen
+8b6a40f5,10,0,75.0,0.0,0.0,Early Teen
+8b802ca8,9,1,45.0,0.0,0.0,Early Teen
+8ba98f12,9,1,47.0,0.0,0.0,Early Teen
+8bc5199c,10,1,51.0,2.0,1.0,Early Teen
+8bf72a9c,14,0,62.0,3.0,1.0,Teen
+8c0ca955,14,1,47.0,2.0,0.0,Teen
+8c122779,18,0,43.0,2.0,0.0,Young Adult
+8c1f9196,19,0,59.2,2.0,1.0,Adult
+8c5a5a21,7,0,82.0,1.0,0.0,Early Teen
+8c6c52a2,10,0,41.0,0.0,0.0,Early Teen
+8c97411a,9,1,67.0,0.0,0.0,Early Teen
+8c9c253d,10,1,55.0,1.0,0.0,Early Teen
+8ca025c3,7,1,60.0,0.0,0.0,Early Teen
+8cab7bc4,8,0,49.0,2.0,0.0,Early Teen
+8cb19d64,6,0,58.0,0.0,1.0,Early Teen
+8cfcac79,14,0,53.0,1.0,2.0,Teen
+8d010562,9,1,68.0,0.0,0.0,Early Teen
+8d055cca,11,0,62.0,2.0,0.0,Early Teen
+8d11c14a,9,1,45.0,1.0,1.0,Early Teen
+8d8b8553,6,0,100.0,1.0,2.0,Early Teen
+8db09bb4,11,0,49.0,1.0,1.0,Early Teen
+8ddb6b8d,7,0,64.0,2.0,0.0,Early Teen
+8e24b103,6,1,62.0,0.0,0.0,Early Teen
+8e380413,11,1,51.0,1.0,1.0,Early Teen
+8e59a69a,10,1,76.0,0.0,1.0,Early Teen
+8e749c85,13,1,60.0,2.0,1.0,Teen
+8e770d51,6,0,58.0,2.0,0.0,Early Teen
+8e80deb7,15,1,49.0,2.0,0.0,Teen
+8e93a873,16,1,59.0,3.0,1.0,Young Adult
+8ec2cc63,10,0,100.0,2.0,0.0,Early Teen
+8ef72e3e,6,1,48.2,0.0,0.0,Early Teen
+8f015125,12,0,55.0,0.0,0.0,Early Teen
+8f112082,13,0,59.0,2.0,1.0,Teen
+8f13c52a,15,0,49.0,2.0,1.0,Teen
+8f1e1df6,10,1,62.0,1.0,0.0,Early Teen
+8f21c613,13,0,53.0,0.0,1.0,Teen
+8f2d131f,6,0,43.0,3.0,1.0,Early Teen
+8f39a0e7,10,1,59.0,1.0,1.0,Early Teen
+8f68479b,13,0,54.0,3.0,3.0,Teen
+8f753551,11,1,38.0,2.0,0.0,Early Teen
+8f9c03c6,7,1,49.0,0.0,0.0,Early Teen
+90161e10,12,0,62.0,2.0,1.0,Early Teen
+9027c805,8,1,45.0,2.0,0.0,Early Teen
+9052579b,5,1,56.0,2.0,0.0,Child
+9061cc9c,6,1,54.2,0.0,0.0,Early Teen
+90778278,9,1,49.0,0.0,0.0,Early Teen
+908b1207,10,0,64.0,2.0,2.0,Early Teen
+90a37530,8,1,51.0,0.0,0.0,Early Teen
+90fee6b1,10,1,49.0,2.0,0.0,Early Teen
+9105b812,18,1,59.0,2.0,1.0,Young Adult
+91098060,10,1,51.0,2.0,1.0,Early Teen
+911d1406,10,1,75.0,0.0,0.0,Early Teen
+912a91b0,6,1,75.0,2.0,0.0,Early Teen
+9130a22e,8,0,63.0,0.0,0.0,Early Teen
+91386987,13,1,58.0,2.0,1.0,Teen
+913bea9f,16,1,81.0,0.0,1.0,Young Adult
+91656d27,12,0,62.0,1.0,1.0,Early Teen
+916f7069,10,0,49.0,2.0,0.0,Early Teen
+9173f25b,13,0,56.0,2.0,2.0,Teen
+917990b2,13,1,66.0,2.0,0.0,Teen
+9181b136,6,0,51.0,0.0,0.0,Early Teen
+91930eec,6,0,59.0,0.0,0.0,Early Teen
+91942b42,8,1,68.0,2.0,2.0,Early Teen
+91a5d06e,5,0,50.2,0.0,0.0,Child
+91e23cc5,14,0,54.0,3.0,2.0,Teen
+91e86c47,15,1,43.0,2.0,0.0,Teen
+91fdc1e0,11,0,41.0,1.0,0.0,Early Teen
+92031591,11,0,53.0,2.0,0.0,Early Teen
+921146d1,7,1,82.0,0.0,0.0,Early Teen
+92293b06,12,1,60.0,1.0,0.0,Early Teen
+92622443,8,1,64.0,2.0,1.0,Early Teen
+926a64d8,14,1,85.0,2.0,1.0,Teen
+926b3a76,16,0,60.0,1.0,3.0,Young Adult
+926bd07e,7,0,68.0,0.0,0.0,Early Teen
+9271574b,16,1,54.0,0.0,0.0,Young Adult
+92b18571,8,1,68.0,0.0,0.0,Early Teen
+92bb8516,9,0,55.0,0.0,0.0,Early Teen
+92bcf0e7,7,0,47.0,0.0,0.0,Early Teen
+930c567c,10,0,41.0,1.0,1.0,Early Teen
+93188a17,12,0,46.0,0.0,0.0,Early Teen
+932b5928,10,0,85.0,2.0,1.0,Early Teen
+93363059,14,1,53.0,2.0,1.0,Teen
+933da99b,9,0,72.0,1.0,0.0,Early Teen
+93507a1b,13,0,90.0,3.0,3.0,Teen
+93559639,7,0,38.0,0.0,0.0,Early Teen
+93904b23,10,0,71.0,1.0,1.0,Early Teen
+93c06d4c,10,1,60.0,0.0,0.0,Early Teen
+93c72a97,21,1,46.0,3.0,0.0,Adult
+93c93585,10,0,38.0,2.0,0.0,Early Teen
+93cdae1c,9,0,68.0,2.0,0.0,Early Teen
+93f8b501,8,1,67.0,0.0,0.0,Early Teen
+93fd93c4,14,0,46.0,0.0,1.0,Teen
+93fda84a,6,1,53.0,0.0,0.0,Early Teen
+9402b885,12,0,77.0,0.0,0.0,Early Teen
+9405bad1,7,0,46.0,2.0,0.0,Early Teen
+9416d70e,13,0,66.0,2.0,1.0,Teen
+945d802a,9,0,84.0,0.0,1.0,Early Teen
+948a7025,8,1,53.0,1.0,0.0,Early Teen
+948e1435,15,1,51.0,2.0,1.0,Teen
+94902bc9,13,0,72.0,1.0,1.0,Teen
+9498cc26,11,1,84.0,0.0,1.0,Early Teen
+949f94e5,7,0,59.0,0.0,0.0,Early Teen
+94a1053b,14,1,43.0,3.0,1.0,Teen
+9508b72f,10,1,69.0,1.0,0.0,Early Teen
+9521093f,12,0,42.0,3.0,0.0,Early Teen
+9540fa8e,7,0,53.0,1.0,0.0,Early Teen
+95488452,8,1,45.0,0.0,0.0,Early Teen
+954a4c2e,11,1,50.0,2.0,1.0,Early Teen
+9568e659,14,1,67.0,3.0,2.0,Teen
+9570bfb7,6,1,42.0,0.0,0.0,Early Teen
+957dcb7f,5,1,49.0,0.0,1.0,Child
+95cc96cc,5,0,54.2,0.0,0.0,Child
+95d57ff9,12,0,76.0,0.0,0.0,Early Teen
+95e04c4b,7,0,42.0,0.0,0.0,Early Teen
+96262441,8,1,53.0,0.0,0.0,Early Teen
+9646a500,6,0,47.4,2.0,0.0,Early Teen
+96595f1d,8,0,47.0,0.0,0.0,Early Teen
+966161e7,8,1,45.0,0.0,0.0,Early Teen
+966fffd0,16,0,69.6,2.0,2.0,Young Adult
+9682cd0d,7,0,60.0,0.0,0.0,Early Teen
+96d6034f,9,1,41.0,0.0,0.0,Early Teen
+96de5f57,14,0,55.6,3.0,2.0,Teen
+96f13763,6,1,38.0,0.0,0.0,Early Teen
+978218e6,10,0,47.0,2.0,0.0,Early Teen
+979a5c76,13,0,46.0,2.0,1.0,Teen
+97bb0cc0,10,0,63.0,2.0,2.0,Early Teen
+97d0593e,8,0,75.0,0.0,0.0,Early Teen
+981568fa,13,0,46.0,0.0,0.0,Teen
+983bcb5b,20,0,47.0,3.0,0.0,Adult
+98413061,7,0,50.0,0.0,0.0,Early Teen
+9853fb61,11,1,94.0,0.0,0.0,Early Teen
+98a4be3f,20,0,46.0,2.0,0.0,Adult
+98a81a90,11,0,58.0,2.0,1.0,Early Teen
+98ed2153,9,0,75.0,2.0,2.0,Early Teen
+99205f42,11,0,59.0,1.0,1.0,Early Teen
+99328d2e,12,1,41.0,1.0,0.0,Early Teen
+994ee014,9,1,63.0,0.0,0.0,Early Teen
+99752704,7,0,86.0,2.0,1.0,Early Teen
+9977fb0f,11,0,43.0,0.0,0.0,Early Teen
+998115f3,9,0,46.0,2.0,1.0,Early Teen
+998cfa64,9,1,53.0,0.0,0.0,Early Teen
+99a1711f,18,0,67.8,2.0,1.0,Young Adult
+99a8a9e7,9,1,53.0,0.0,0.0,Early Teen
+99b15811,7,0,59.0,2.0,0.0,Early Teen
+99ec8c4a,9,0,51.0,2.0,0.0,Early Teen
+99f0cc53,6,0,52.2,1.0,0.0,Early Teen
+99f3be05,6,0,68.0,2.0,1.0,Early Teen
+99fe5b44,16,0,45.0,2.0,0.0,Young Adult
+9a2082cf,7,0,72.0,0.0,0.0,Early Teen
+9a50d2d8,12,0,59.0,2.0,0.0,Early Teen
+9a5aed6c,13,0,55.0,2.0,0.0,Teen
+9a76906d,7,0,64.0,0.0,0.0,Early Teen
+9a7e4c38,8,0,41.0,2.0,0.0,Early Teen
+9aa1a2ae,11,0,43.0,0.0,1.0,Early Teen
+9aa36639,6,1,55.0,0.0,0.0,Early Teen
+9aab3e36,9,0,60.0,0.0,0.0,Early Teen
+9ab4909f,17,0,54.4,2.0,1.0,Young Adult
+9af5548f,11,0,42.0,1.0,0.0,Early Teen
+9b328d6c,13,0,64.0,0.0,2.0,Teen
+9b5f13ec,16,1,60.0,2.0,2.0,Young Adult
+9b96b0e4,8,0,53.0,1.0,0.0,Early Teen
+9bc60f80,6,1,100.0,0.0,1.0,Early Teen
+9bd745aa,9,0,62.0,3.0,0.0,Early Teen
+9bdd6964,6,0,56.0,0.0,1.0,Early Teen
+9bf7051d,10,0,79.0,2.0,2.0,Early Teen
+9c12f80d,8,1,58.0,0.0,0.0,Early Teen
+9c1ea003,9,0,54.0,1.0,1.0,Early Teen
+9c23dba9,15,1,58.0,2.0,1.0,Teen
+9c2df71f,7,1,42.0,0.0,0.0,Early Teen
+9c589c9d,5,0,60.0,0.0,0.0,Child
+9c7a1561,6,1,51.0,2.0,0.0,Early Teen
+9c9cd7ef,8,1,64.0,1.0,1.0,Early Teen
+9cb303cb,15,0,60.0,3.0,0.0,Teen
+9cb32129,9,1,55.0,0.0,0.0,Early Teen
+9cba0d0e,11,0,56.0,0.0,1.0,Early Teen
+9ccbc70b,5,0,64.0,0.0,0.0,Child
+9ce139d3,6,0,54.2,0.0,0.0,Early Teen
+9cee3c19,9,0,75.0,0.0,1.0,Early Teen
+9cf04c41,15,1,55.0,0.0,1.0,Teen
+9d0670dd,6,0,40.0,0.0,0.0,Early Teen
+9d1b2d2c,7,1,56.0,0.0,0.0,Early Teen
+9d29b706,17,0,50.0,0.0,2.0,Young Adult
+9d39f0da,12,0,45.0,0.0,2.0,Early Teen
+9d5826bb,12,0,43.0,0.0,1.0,Early Teen
+9d65adbf,12,0,62.0,2.0,1.0,Early Teen
+9d6b1410,7,0,54.0,0.0,0.0,Early Teen
+9dbdbebf,7,1,55.0,0.0,0.0,Early Teen
+9dc74359,15,1,67.0,2.0,0.0,Teen
+9ddb06db,18,0,69.0,2.0,2.0,Young Adult
+9ddfb9e6,14,0,56.0,2.0,1.0,Teen
+9de6a614,10,1,68.0,2.0,0.0,Early Teen
+9e027e04,6,0,58.0,0.0,0.0,Early Teen
+9e052412,6,1,69.0,0.0,0.0,Early Teen
+9e171735,10,1,50.0,2.0,0.0,Early Teen
+9e29b5d2,11,1,58.0,0.0,0.0,Early Teen
+9e4385f7,10,0,81.0,0.0,0.0,Early Teen
+9e7860ef,11,1,45.0,0.0,0.0,Early Teen
+9e964060,8,0,55.0,0.0,2.0,Early Teen
+9eb283e4,15,1,71.0,0.0,3.0,Teen
+9ebb73c7,11,0,47.0,0.0,0.0,Early Teen
+9f3ca269,12,0,58.0,3.0,1.0,Early Teen
+9f5f15ef,10,0,69.0,2.0,1.0,Early Teen
+9f6b9158,16,1,78.0,2.0,2.0,Young Adult
+9f70688f,5,1,54.2,0.0,0.0,Child
+9f9be55c,10,0,72.0,0.0,2.0,Early Teen
+9fa5cdfd,9,0,46.0,0.0,0.0,Early Teen
+9fa68512,6,0,54.2,0.0,0.0,Early Teen
+9fb96ae3,13,1,85.0,2.0,2.0,Teen
+9fbc09a6,6,0,41.0,2.0,0.0,Early Teen
+9fbf31f9,5,0,50.0,0.0,0.0,Child
+9fbfa81b,6,0,55.0,0.0,0.0,Early Teen
+9fec142f,13,1,66.0,0.0,1.0,Teen
+9ff73d95,10,0,46.0,0.0,0.0,Early Teen
+a00c3ab0,17,0,69.0,3.0,3.0,Young Adult
+a00c85e7,18,1,48.2,3.0,1.0,Young Adult
+a0182b17,10,1,45.0,3.0,0.0,Early Teen
+a0277c1c,9,0,45.0,2.0,0.0,Early Teen
+a032d7bb,7,0,59.0,2.0,0.0,Early Teen
+a0482f47,9,0,73.0,0.0,0.0,Early Teen
+a0497d5d,16,1,45.0,3.0,1.0,Young Adult
+a0510686,6,1,47.0,0.0,1.0,Early Teen
+a0522c83,9,0,77.0,0.0,2.0,Early Teen
+a07ec6fb,10,0,71.0,0.0,1.0,Early Teen
+a0811cc1,7,0,73.0,1.0,0.0,Early Teen
+a08ebf6e,11,0,66.0,2.0,3.0,Early Teen
+a0dffdeb,10,0,49.0,0.0,1.0,Early Teen
+a148b46f,5,0,57.0,2.0,0.0,Child
+a17f6cfd,14,1,72.0,2.0,0.0,Teen
+a1814875,15,0,54.0,2.0,2.0,Teen
+a1942b0b,9,0,55.0,0.0,0.0,Early Teen
+a196148e,17,0,69.0,3.0,1.0,Young Adult
+a1ab89aa,6,1,41.0,0.0,0.0,Early Teen
+a1df952c,18,0,49.6,3.0,1.0,Young Adult
+a1fe4f51,6,0,53.6,0.0,0.0,Early Teen
+a213c519,15,0,46.0,2.0,0.0,Teen
+a217e790,7,1,60.0,0.0,0.0,Early Teen
+a21ad8c0,19,0,54.0,3.0,1.0,Adult
+a221c60c,12,1,75.0,2.0,1.0,Early Teen
+a2240f50,12,1,60.0,2.0,2.0,Early Teen
+a263a68c,7,1,62.0,1.0,0.0,Early Teen
+a26c3e8f,7,1,64.0,0.0,1.0,Early Teen
+a28c7891,10,0,100.0,2.0,0.0,Early Teen
+a297d1b9,8,0,53.0,0.0,0.0,Early Teen
+a2994e55,17,0,67.0,2.0,2.0,Young Adult
+a2a8f352,5,0,52.2,0.0,0.0,Child
+a302a015,9,0,53.0,0.0,1.0,Early Teen
+a30e6178,8,0,76.0,0.0,0.0,Early Teen
+a317c78a,8,0,100.0,0.0,0.0,Early Teen
+a3391798,10,1,45.0,0.0,0.0,Early Teen
+a3413f0a,6,0,64.0,0.0,0.0,Early Teen
+a363ec1b,13,1,54.0,3.0,1.0,Teen
+a3858c6a,15,0,45.0,0.0,0.0,Teen
+a38699a5,9,1,63.0,2.0,1.0,Early Teen
+a3abe528,9,0,49.0,1.0,2.0,Early Teen
+a3b146ca,7,1,51.0,1.0,0.0,Early Teen
+a3bd8858,15,1,68.0,3.0,1.0,Teen
+a3e53e34,10,0,59.0,1.0,1.0,Early Teen
+a3ec2999,9,1,97.0,0.0,1.0,Early Teen
+a402c6c8,8,0,50.0,0.0,0.0,Early Teen
+a40c8316,14,0,46.0,2.0,2.0,Teen
+a4481101,13,0,43.0,1.0,0.0,Teen
+a45230f4,13,1,58.0,2.0,0.0,Teen
+a4530b41,7,0,49.0,0.0,0.0,Early Teen
+a457a4ab,6,0,47.0,0.0,0.0,Early Teen
+a49eda7f,12,0,43.0,2.0,0.0,Early Teen
+a4be0322,8,0,55.0,2.0,1.0,Early Teen
+a4c15213,9,0,60.0,0.0,0.0,Early Teen
+a4e0447e,6,1,53.0,3.0,0.0,Early Teen
+a4f13c0d,10,0,64.0,2.0,0.0,Early Teen
+a5024ef9,17,0,72.4,2.0,2.0,Young Adult
+a5078c62,8,0,64.0,2.0,0.0,Early Teen
+a5099438,17,0,72.0,2.0,0.0,Young Adult
+a5356446,17,0,67.0,0.0,1.0,Young Adult
+a54d22e7,6,0,56.0,0.0,0.0,Early Teen
+a55b715d,15,1,59.0,1.0,1.0,Teen
+a5710c0a,9,0,66.0,0.0,0.0,Early Teen
+a5974a7d,11,0,46.0,0.0,0.0,Early Teen
+a59b2411,16,1,89.0,0.0,0.0,Young Adult
+a5a737f3,8,0,69.0,0.0,0.0,Early Teen
+a5c87de6,8,0,42.0,0.0,0.0,Early Teen
+a5dbb00a,10,1,53.0,2.0,1.0,Early Teen
+a60b8575,17,0,84.0,3.0,2.0,Young Adult
+a614af1b,8,0,50.0,1.0,0.0,Early Teen
+a62edc1c,8,1,50.0,0.0,1.0,Early Teen
+a65b2226,9,1,42.0,2.0,0.0,Early Teen
+a6969e1a,9,0,49.0,2.0,1.0,Early Teen
+a69f89e2,9,0,46.0,0.0,0.0,Early Teen
+a6e72e9d,6,0,60.0,0.0,0.0,Early Teen
+a6fbb2e7,8,1,76.0,0.0,0.0,Early Teen
+a70bb2c5,10,0,50.0,2.0,0.0,Early Teen
+a70e9a7c,12,0,53.0,0.0,0.0,Early Teen
+a722f648,6,0,76.0,2.0,1.0,Early Teen
+a7639eb5,16,0,59.8,3.0,2.0,Young Adult
+a774c63b,12,0,38.0,0.0,0.0,Early Teen
+a78766db,12,1,56.0,2.0,0.0,Early Teen
+a7b9546a,9,0,49.0,0.0,0.0,Early Teen
+a7d2852d,14,1,82.0,2.0,1.0,Teen
+a808ad0a,14,0,55.0,2.0,0.0,Teen
+a814e825,10,0,46.0,1.0,0.0,Early Teen
+a84922d2,11,0,50.0,0.0,0.0,Early Teen
+a84ae7e0,12,0,54.0,1.0,1.0,Early Teen
+a8722cde,17,0,59.0,2.0,1.0,Young Adult
+a886c07b,10,1,77.0,1.0,2.0,Early Teen
+a88cd304,10,0,71.0,2.0,1.0,Early Teen
+a8926a86,14,0,63.0,2.0,2.0,Teen
+a89284b2,6,0,45.0,0.0,0.0,Early Teen
+a8b0428d,12,0,62.0,3.0,1.0,Early Teen
+a8c1aab5,7,0,66.0,0.0,0.0,Early Teen
+a8d90be8,13,1,49.0,2.0,0.0,Teen
+a8d9de72,9,1,71.0,0.0,2.0,Early Teen
+a8dc2e05,14,0,60.0,1.0,0.0,Teen
+a922ef3f,7,0,66.0,0.0,2.0,Early Teen
+a952659d,11,0,64.0,1.0,2.0,Early Teen
+a9595acd,8,1,76.0,0.0,0.0,Early Teen
+a95b4487,8,1,85.0,0.0,0.0,Early Teen
+a9717f92,14,1,49.0,0.0,0.0,Teen
+a971b3b1,7,1,53.0,0.0,0.0,Early Teen
+a9aa2336,12,1,51.0,2.0,0.0,Early Teen
+a9b84b96,7,1,47.0,0.0,0.0,Early Teen
+a9c3b925,9,0,45.0,2.0,0.0,Early Teen
+a9c53cdb,6,0,49.0,1.0,1.0,Early Teen
+a9c5f872,11,0,54.0,0.0,0.0,Early Teen
+a9e5794a,12,1,42.0,0.0,0.0,Early Teen
+aa1700c7,9,0,42.0,0.0,0.0,Early Teen
+aa295760,11,1,49.0,0.0,0.0,Early Teen
+aa61d9da,16,1,55.0,3.0,0.0,Young Adult
+aa776ef6,5,0,51.2,0.0,0.0,Child
+aacb0b33,13,0,59.0,0.0,0.0,Teen
+aae9800e,21,0,53.6,2.0,0.0,Adult
+aaefeff0,19,0,66.4,3.0,3.0,Adult
+ab16a20d,9,1,79.0,0.0,0.0,Early Teen
+ab1dc378,18,1,66.0,3.0,3.0,Young Adult
+ab2ad965,6,0,45.0,0.0,0.0,Early Teen
+ab36aa48,6,0,93.0,0.0,2.0,Early Teen
+ab4b6c15,17,1,58.4,2.0,1.0,Young Adult
+ab4fe82b,8,0,79.0,2.0,2.0,Early Teen
+ab54c39e,13,1,60.0,0.0,1.0,Teen
+ab5889ef,6,0,45.0,0.0,0.0,Early Teen
+ab6e1b81,7,0,42.0,0.0,0.0,Early Teen
+ab71f143,12,0,41.0,0.0,0.0,Early Teen
+ab8245da,7,1,84.0,0.0,2.0,Early Teen
+ab987c75,7,0,43.0,0.0,0.0,Early Teen
+abac67cc,16,1,60.0,3.0,0.0,Young Adult
+abaf745c,7,0,40.0,0.0,0.0,Early Teen
+abb3b071,7,0,100.0,1.0,0.0,Early Teen
+abd1b232,16,0,77.0,2.0,2.0,Young Adult
+ac1ad4a7,6,1,48.4,2.0,0.0,Early Teen
+ac29ec80,7,1,45.0,0.0,0.0,Early Teen
+ac31e154,9,1,53.0,1.0,0.0,Early Teen
+ac3ba541,8,0,43.0,0.0,0.0,Early Teen
+ac5fad3b,6,0,45.0,0.0,0.0,Early Teen
+ac66c144,7,1,43.0,0.0,0.0,Early Teen
+ac675a81,9,0,50.0,1.0,1.0,Early Teen
+ac67c949,8,0,38.0,0.0,0.0,Early Teen
+ac967bb9,16,0,60.0,2.0,2.0,Young Adult
+acb75c15,9,0,91.0,0.0,0.0,Early Teen
+acde8e47,9,1,76.0,2.0,1.0,Early Teen
+aceefa4f,11,1,60.0,1.0,1.0,Early Teen
+ad0bbf35,9,1,43.0,0.0,0.0,Early Teen
+ad1dfc9a,17,0,51.0,2.0,0.0,Young Adult
+ad319a21,12,0,47.0,2.0,1.0,Early Teen
+ad380962,9,1,42.0,2.0,0.0,Early Teen
+ad536dea,9,0,95.0,0.0,1.0,Early Teen
+ad8189bd,15,0,56.0,2.0,3.0,Teen
+ad8945e3,10,0,53.0,0.0,1.0,Early Teen
+ad9f821d,11,0,75.0,0.0,0.0,Early Teen
+adaf7461,8,0,72.0,2.0,1.0,Early Teen
+adba23f0,11,0,45.0,0.0,1.0,Early Teen
+adbd6839,7,0,42.0,2.0,0.0,Early Teen
+adc2d620,9,0,41.0,0.0,0.0,Early Teen
+adc71322,10,0,56.0,2.0,0.0,Early Teen
+ade50eba,16,0,58.4,3.0,1.0,Young Adult
+adf444ff,9,0,40.0,2.0,1.0,Early Teen
+adfef47a,9,1,45.0,0.0,0.0,Early Teen
+ae4fdae6,11,1,98.0,3.0,2.0,Early Teen
+ae6e4380,9,0,55.0,0.0,0.0,Early Teen
+ae712150,19,0,51.6,1.0,0.0,Adult
+aea63a78,10,1,42.0,0.0,0.0,Early Teen
+aea92843,6,1,59.0,0.0,0.0,Early Teen
+aecc7e74,12,0,77.0,2.0,2.0,Early Teen
+aed29ee7,11,0,42.0,3.0,2.0,Early Teen
+af1c2775,15,0,55.0,3.0,2.0,Teen
+af485add,10,0,67.0,0.0,2.0,Early Teen
+af4f064e,9,1,64.0,0.0,0.0,Early Teen
+afa6cc9b,14,0,51.0,2.0,1.0,Teen
+afa92c37,12,0,50.0,1.0,1.0,Early Teen
+afae8244,8,0,42.0,1.0,1.0,Early Teen
+aff48273,11,1,69.0,2.0,1.0,Early Teen
+b01cb004,7,0,59.0,0.0,0.0,Early Teen
+b074f33b,9,0,56.0,0.0,0.0,Early Teen
+b08423c5,12,0,54.0,1.0,1.0,Early Teen
+b08f0ca4,5,1,58.8,0.0,1.0,Child
+b092b360,10,1,90.0,0.0,0.0,Early Teen
+b0ab15a7,8,0,46.0,0.0,0.0,Early Teen
+b0b57cb7,9,0,56.0,0.0,1.0,Early Teen
+b0e96997,7,1,66.0,1.0,1.0,Early Teen
+b120a337,9,1,67.0,0.0,0.0,Early Teen
+b13e0cd0,18,0,52.2,2.0,0.0,Young Adult
+b1883100,7,1,47.0,0.0,0.0,Early Teen
+b1a00510,10,0,50.0,0.0,1.0,Early Teen
+b1bc2fe4,5,1,60.2,0.0,0.0,Child
+b1de4423,8,1,50.0,0.0,0.0,Early Teen
+b1f064ac,17,1,51.8,2.0,0.0,Young Adult
+b21f7b12,10,0,81.0,2.0,1.0,Early Teen
+b2290813,16,0,41.0,2.0,0.0,Young Adult
+b2382d94,7,1,58.0,0.0,0.0,Early Teen
+b23b9220,14,1,40.0,1.0,0.0,Teen
+b2594910,9,0,49.0,2.0,0.0,Early Teen
+b25abc27,12,0,81.0,2.0,2.0,Early Teen
+b285eac6,10,1,56.0,0.0,2.0,Early Teen
+b2987a65,7,0,79.0,0.0,0.0,Early Teen
+b2a73566,16,1,53.0,1.0,0.0,Young Adult
+b2b56219,9,1,46.0,3.0,1.0,Early Teen
+b2b792a7,13,1,71.0,3.0,0.0,Teen
+b308c03e,9,0,68.0,1.0,1.0,Early Teen
+b318f1d9,7,1,42.0,0.0,0.0,Early Teen
+b31dd1bb,17,0,54.4,2.0,0.0,Young Adult
+b347b9cc,9,1,58.0,0.0,0.0,Early Teen
+b37281d5,8,0,56.0,0.0,2.0,Early Teen
+b39504a7,14,1,71.0,2.0,2.0,Teen
+b397a73e,7,0,56.0,1.0,1.0,Early Teen
+b3b200af,9,0,51.0,0.0,0.0,Early Teen
+b3d74a58,5,0,55.0,0.0,0.0,Child
+b3dade53,12,0,77.0,2.0,2.0,Early Teen
+b3e10f59,6,0,54.2,0.0,0.0,Early Teen
+b3e14267,12,1,72.0,0.0,0.0,Early Teen
+b3f5c066,9,0,60.0,2.0,0.0,Early Teen
+b4002374,12,0,51.0,2.0,1.0,Early Teen
+b412866b,13,0,45.0,3.0,1.0,Teen
+b41cee02,10,1,56.0,0.0,0.0,Early Teen
+b447e66d,9,1,60.0,0.0,1.0,Early Teen
+b449ac61,12,0,58.0,2.0,2.0,Early Teen
+b452f767,10,0,53.0,0.0,0.0,Early Teen
+b463e777,9,1,58.0,0.0,1.0,Early Teen
+b4885e6f,16,0,61.8,2.0,3.0,Young Adult
+b494401a,17,1,53.6,1.0,0.0,Young Adult
+b4bd49a0,8,1,54.0,0.0,1.0,Early Teen
+b4cfd8d7,10,0,77.0,0.0,0.0,Early Teen
+b4e69f09,7,0,53.0,0.0,0.0,Early Teen
+b516ca6f,11,1,41.0,2.0,0.0,Early Teen
+b53a8f23,8,1,59.0,2.0,2.0,Early Teen
+b55f7943,9,1,91.0,2.0,1.0,Early Teen
+b57e33a6,6,0,43.0,0.0,1.0,Early Teen
+b5a0707a,10,0,76.0,2.0,2.0,Early Teen
+b5b2d51c,8,1,50.0,0.0,0.0,Early Teen
+b5c2bc50,6,0,66.0,0.0,0.0,Early Teen
+b62a320b,7,0,55.0,2.0,1.0,Early Teen
+b64856e9,13,0,42.0,0.0,1.0,Teen
+b69bf1f7,8,1,62.0,1.0,0.0,Early Teen
+b6af12af,5,0,53.0,2.0,0.0,Child
+b6caa7fb,10,0,45.0,0.0,0.0,Early Teen
+b6e9a65f,8,1,51.0,0.0,0.0,Early Teen
+b70db5d6,6,0,54.2,0.0,0.0,Early Teen
+b712b69b,10,0,72.0,2.0,2.0,Early Teen
+b746cbe3,8,0,49.0,0.0,0.0,Early Teen
+b78d5d2e,9,0,64.0,0.0,0.0,Early Teen
+b7a61f8d,9,1,46.0,0.0,0.0,Early Teen
+b7ac57d5,16,0,66.0,3.0,1.0,Young Adult
+b7c3834f,12,1,68.0,3.0,3.0,Early Teen
+b7c410a9,9,0,43.0,2.0,0.0,Early Teen
+b7eb466c,6,0,84.0,2.0,0.0,Early Teen
+b7ec062d,11,1,72.0,2.0,1.0,Early Teen
+b802aec3,12,1,60.0,2.0,1.0,Early Teen
+b816d8d5,6,1,85.0,2.0,0.0,Early Teen
+b823508b,11,1,53.0,1.0,1.0,Early Teen
+b84754a9,8,1,66.0,1.0,0.0,Early Teen
+b89537ae,9,1,63.0,1.0,0.0,Early Teen
+b89b8154,9,0,53.0,0.0,0.0,Early Teen
+b8b48fbf,9,1,47.0,1.0,0.0,Early Teen
+b8bf20f9,10,1,47.0,2.0,0.0,Early Teen
+b8df3d7c,8,0,72.0,0.0,0.0,Early Teen
+b92be605,9,0,58.0,0.0,0.0,Early Teen
+b9318815,20,0,51.6,3.0,1.0,Adult
+b93e1e41,10,0,51.0,0.0,0.0,Early Teen
+b94ec4a1,12,1,63.0,0.0,0.0,Early Teen
+b95aad8d,21,0,76.0,0.0,2.0,Adult
+b95da85d,18,0,47.0,2.0,2.0,Young Adult
+b96e3324,7,0,46.0,0.0,0.0,Early Teen
+b9b22bff,15,0,60.0,3.0,0.0,Teen
+b9c085ab,10,0,47.0,2.0,0.0,Early Teen
+b9cf3f7c,14,1,72.0,0.0,1.0,Teen
+b9d3616c,15,1,63.0,2.0,2.0,Teen
+b9dcf632,6,0,38.0,0.0,0.0,Early Teen
+b9e20ba6,11,0,46.0,2.0,0.0,Early Teen
+b9e90f7f,9,0,81.0,2.0,2.0,Early Teen
+b9eeb8fa,7,0,49.0,0.0,0.0,Early Teen
+ba09d63f,9,0,75.0,0.0,0.0,Early Teen
+ba158a9c,5,0,77.0,2.0,0.0,Child
+ba29cfb3,6,0,50.0,0.0,0.0,Early Teen
+ba42462b,6,1,51.0,1.0,0.0,Early Teen
+ba4294b3,8,1,64.0,1.0,0.0,Early Teen
+ba73bc7c,12,0,54.0,0.0,1.0,Early Teen
+bafc4389,8,0,60.0,1.0,1.0,Early Teen
+bb0d7d92,17,1,58.0,3.0,2.0,Young Adult
+bb4821ee,10,0,46.0,2.0,1.0,Early Teen
+bb808a71,12,0,43.0,2.0,0.0,Early Teen
+bba6ff20,13,1,47.0,0.0,0.0,Teen
+bbbd61c9,7,0,51.0,0.0,0.0,Early Teen
+bbd71a7c,14,0,56.0,0.0,2.0,Teen
+bbe5bedd,6,0,68.0,0.0,0.0,Early Teen
+bc06600f,16,1,57.2,3.0,1.0,Young Adult
+bc0c0f03,8,0,46.0,2.0,0.0,Early Teen
+bc1ec029,8,0,54.0,1.0,0.0,Early Teen
+bc437705,6,0,66.6,0.0,0.0,Early Teen
+bc4eaf77,17,0,70.6,2.0,3.0,Young Adult
+bc66f41d,8,1,55.0,2.0,0.0,Early Teen
+bc6bd8b2,6,1,71.0,0.0,0.0,Early Teen
+bc790ce0,12,1,54.0,0.0,0.0,Early Teen
+bc817a4c,7,1,53.0,0.0,0.0,Early Teen
+bc95339a,10,1,42.0,1.0,0.0,Early Teen
+bccebc5a,11,0,54.0,0.0,0.0,Early Teen
+bce32ada,6,0,50.0,3.0,1.0,Early Teen
+bd124dbc,10,0,51.0,2.0,1.0,Early Teen
+bd480331,10,0,55.0,0.0,0.0,Early Teen
+bd4ccd4c,11,0,41.0,1.0,1.0,Early Teen
+bd713fb8,10,1,38.0,1.0,0.0,Early Teen
+bd8397cb,10,0,53.0,2.0,0.0,Early Teen
+bd932d04,15,0,75.0,3.0,2.0,Teen
+bdbd1afd,15,1,64.0,2.0,0.0,Teen
+bdbdc4b5,8,1,63.0,0.0,0.0,Early Teen
+bdbff28b,12,0,99.0,0.0,0.0,Early Teen
+bdcc7d10,6,0,60.0,0.0,0.0,Early Teen
+bdcddd09,9,0,47.0,2.0,1.0,Early Teen
+be1c3b0e,17,0,50.6,2.0,0.0,Young Adult
+be210bc7,16,0,89.0,2.0,2.0,Young Adult
+be26335a,13,0,54.0,2.0,1.0,Teen
+be9ba5f7,10,1,88.0,2.0,0.0,Early Teen
+be9e9a8e,13,1,41.0,0.0,0.0,Teen
+bea525dc,10,1,63.0,0.0,0.0,Early Teen
+beafa6f9,9,0,88.0,1.0,2.0,Early Teen
+bebff291,6,0,55.0,0.0,0.0,Early Teen
+bedeb6f3,7,0,43.0,0.0,0.0,Early Teen
+bee4eab0,12,0,42.0,2.0,1.0,Early Teen
+bee51adb,7,0,75.0,0.0,0.0,Early Teen
+bef259fd,11,0,94.0,1.0,1.0,Early Teen
+bef89ce4,10,1,47.0,1.0,0.0,Early Teen
+bf0942bc,8,1,100.0,3.0,0.0,Early Teen
+bf18965c,10,1,58.0,0.0,0.0,Early Teen
+bf280e13,18,0,43.0,2.0,1.0,Young Adult
+bf31e0a7,8,1,55.0,0.0,0.0,Early Teen
+bfade1ba,8,0,45.0,0.0,0.0,Early Teen
+bfb421f9,14,0,38.0,1.0,2.0,Teen
+bfb52472,12,1,42.0,3.0,1.0,Early Teen
+c00c663c,11,1,46.0,1.0,1.0,Early Teen
+c03c0758,8,0,56.0,0.0,1.0,Early Teen
+c0442863,21,0,51.0,3.0,2.0,Adult
+c0869eb0,9,0,47.0,0.0,0.0,Early Teen
+c087b48a,12,1,60.0,2.0,1.0,Early Teen
+c09d41cd,20,1,49.0,2.0,0.0,Adult
+c0a7d046,13,0,45.0,3.0,0.0,Teen
+c0adc389,11,0,63.0,3.0,2.0,Early Teen
+c0c168fa,6,0,42.0,0.0,0.0,Early Teen
+c0d5b3f3,14,1,63.0,0.0,0.0,Teen
+c0f2a046,10,0,58.0,2.0,0.0,Early Teen
+c1200b71,7,1,47.0,0.0,0.0,Early Teen
+c1373df0,8,0,53.0,2.0,1.0,Early Teen
+c192715a,11,0,49.0,2.0,0.0,Early Teen
+c1add876,10,0,46.0,1.0,1.0,Early Teen
+c1ed20ef,10,1,59.0,0.0,1.0,Early Teen
+c24c877a,6,1,45.0,0.0,0.0,Early Teen
+c274a243,8,1,50.0,0.0,0.0,Early Teen
+c294b507,9,1,69.0,0.0,1.0,Early Teen
+c2adf42c,15,0,45.0,2.0,1.0,Teen
+c2b40d6f,7,0,75.0,0.0,0.0,Early Teen
+c2bac6ad,13,1,55.0,3.0,2.0,Teen
+c2bac92a,12,1,51.0,2.0,0.0,Early Teen
+c2e15338,17,0,100.0,1.0,2.0,Young Adult
+c2ea6e54,10,1,49.0,2.0,0.0,Early Teen
+c3061b23,7,0,100.0,1.0,0.0,Early Teen
+c308b134,12,0,62.0,0.0,3.0,Early Teen
+c30f5122,17,0,66.0,2.0,2.0,Young Adult
+c31a5825,9,0,38.0,0.0,2.0,Early Teen
+c35218d4,8,1,58.0,1.0,0.0,Early Teen
+c3760eb9,12,1,71.0,3.0,0.0,Early Teen
+c37ef416,8,0,54.0,0.0,0.0,Early Teen
+c38585c5,9,0,41.0,0.0,1.0,Early Teen
+c38a5c9b,15,0,55.0,3.0,2.0,Teen
+c391e9c0,6,0,79.0,0.0,1.0,Early Teen
+c3a3f61e,9,0,49.0,2.0,0.0,Early Teen
+c3a86e3e,9,1,46.0,1.0,1.0,Early Teen
+c3adae87,16,1,60.8,1.0,2.0,Young Adult
+c3b87e5c,8,1,54.0,1.0,0.0,Early Teen
+c3d46daf,18,0,53.0,2.0,2.0,Young Adult
+c3dde859,7,0,62.0,0.0,0.0,Early Teen
+c409bc9d,6,0,47.0,0.0,0.0,Early Teen
+c40bb352,7,1,66.0,0.0,1.0,Early Teen
+c41274a7,16,0,55.0,2.0,0.0,Young Adult
+c418e47a,13,1,60.0,2.0,1.0,Teen
+c42b7972,10,0,64.0,1.0,0.0,Early Teen
+c43b985c,6,0,60.0,2.0,0.0,Early Teen
+c446e1c5,15,1,53.0,3.0,2.0,Teen
+c45068a1,15,0,53.0,1.0,1.0,Teen
+c459095b,16,0,61.0,3.0,2.0,Young Adult
+c4a681dc,9,0,43.0,0.0,1.0,Early Teen
+c4aa8d47,5,0,54.2,0.0,0.0,Child
+c4c2076b,7,0,40.0,0.0,0.0,Early Teen
+c4c86e6f,18,0,51.4,3.0,1.0,Young Adult
+c51c1139,9,0,38.0,0.0,0.0,Early Teen
+c5462e87,10,0,49.0,0.0,1.0,Early Teen
+c55187b4,15,1,63.0,3.0,0.0,Teen
+c55cc646,13,0,53.0,2.0,3.0,Teen
+c5c891c1,9,0,55.0,2.0,0.0,Early Teen
+c5cfaeae,9,0,89.0,2.0,2.0,Early Teen
+c5e91ebc,8,1,68.0,0.0,0.0,Early Teen
+c5f3d60c,6,1,58.0,0.0,0.0,Early Teen
+c6287031,12,1,63.0,2.0,1.0,Early Teen
+c6313b18,5,0,62.0,1.0,0.0,Child
+c63f1965,6,0,71.0,0.0,0.0,Early Teen
+c6575d38,18,0,71.0,3.0,2.0,Young Adult
+c66daa08,14,0,82.0,2.0,2.0,Teen
+c678730b,9,0,42.0,0.0,0.0,Early Teen
+c68c9809,11,0,54.0,0.0,1.0,Early Teen
+c69ffa09,14,0,71.0,0.0,0.0,Teen
+c6a92a65,6,0,47.0,1.0,0.0,Early Teen
+c6b7811e,7,1,90.0,0.0,2.0,Early Teen
+c6cb894a,10,1,71.0,2.0,0.0,Early Teen
+c6cc7467,18,0,57.0,2.0,0.0,Young Adult
+c6d4b453,8,0,60.0,0.0,1.0,Early Teen
+c6da0d4b,7,0,62.0,1.0,0.0,Early Teen
+c6ead822,20,0,54.0,2.0,1.0,Adult
+c6fd800e,9,1,67.0,0.0,0.0,Early Teen
+c706a54d,7,0,43.0,0.0,0.0,Early Teen
+c715832b,5,0,75.0,2.0,0.0,Child
+c731458f,11,1,53.0,2.0,1.0,Early Teen
+c73dd2e4,9,0,62.0,0.0,0.0,Early Teen
+c73f149c,7,1,88.0,0.0,0.0,Early Teen
+c79039af,9,1,47.0,2.0,1.0,Early Teen
+c7d61396,8,0,46.0,2.0,1.0,Early Teen
+c7d9e964,6,0,55.0,2.0,0.0,Early Teen
+c7fd8939,9,0,58.0,0.0,0.0,Early Teen
+c805ebe7,8,0,45.0,0.0,0.0,Early Teen
+c8270746,11,0,58.0,2.0,1.0,Early Teen
+c829500d,9,0,58.0,0.0,0.0,Early Teen
+c892f324,9,1,43.0,2.0,0.0,Early Teen
+c8cc2e1b,6,0,64.2,2.0,0.0,Early Teen
+c8d6b871,9,0,55.0,2.0,0.0,Early Teen
+c8fbbc8a,12,0,55.0,0.0,0.0,Early Teen
+c9133895,10,0,54.0,0.0,1.0,Early Teen
+c9537127,10,0,50.0,2.0,0.0,Early Teen
+c9600298,10,1,51.0,0.0,0.0,Early Teen
+c96b9609,6,0,54.0,0.0,0.0,Early Teen
+c98527f7,8,0,55.0,0.0,0.0,Early Teen
+c9879365,9,0,69.0,1.0,0.0,Early Teen
+c9902f48,7,0,56.0,2.0,1.0,Early Teen
+c9a57335,6,0,43.0,0.0,0.0,Early Teen
+c9ad9c75,21,1,51.6,3.0,0.0,Adult
+c9d47171,7,0,53.0,2.0,2.0,Early Teen
+c9dabad5,9,0,50.0,0.0,0.0,Early Teen
+c9e419e7,8,0,64.0,0.0,0.0,Early Teen
+ca1bdcd3,10,1,49.0,0.0,0.0,Early Teen
+ca3204b0,12,1,55.0,0.0,0.0,Early Teen
+ca33a5e7,8,1,47.0,2.0,2.0,Early Teen
+ca724703,8,0,66.0,2.0,0.0,Early Teen
+cac0f438,9,1,50.0,2.0,0.0,Early Teen
+cad3bc70,12,0,64.0,3.0,2.0,Early Teen
+cadd4ae5,8,0,49.0,2.0,0.0,Early Teen
+cae0531e,14,0,59.0,2.0,1.0,Teen
+cae31194,11,1,42.0,0.0,0.0,Early Teen
+caec8d59,16,0,69.0,3.0,2.0,Young Adult
+cb054226,9,0,68.0,1.0,2.0,Early Teen
+cb2752bc,21,0,60.4,1.0,1.0,Adult
+cb3b7c3c,12,0,50.0,2.0,1.0,Early Teen
+cb73fed9,9,1,60.0,0.0,0.0,Early Teen
+cba1c8b5,13,0,42.0,2.0,0.0,Teen
+cba39753,17,0,49.8,0.0,0.0,Young Adult
+cbb1ddec,10,0,63.0,0.0,2.0,Early Teen
+cbca33a5,9,0,67.0,0.0,0.0,Early Teen
+cbcf8cf2,17,1,41.0,1.0,0.0,Young Adult
+cc010b72,9,1,42.0,0.0,0.0,Early Teen
+cc16d472,12,0,71.0,0.0,2.0,Early Teen
+cc224be2,9,1,76.0,0.0,0.0,Early Teen
+cc25e136,14,0,58.0,2.0,2.0,Teen
+cc477243,8,1,60.0,2.0,0.0,Early Teen
+cc5143df,8,0,62.0,0.0,0.0,Early Teen
+cca40abb,8,1,45.0,0.0,0.0,Early Teen
+ccc9db97,14,0,100.0,2.0,1.0,Teen
+ccd0fe74,16,0,54.0,2.0,2.0,Young Adult
+ccd3cb96,8,0,54.0,0.0,0.0,Early Teen
+ccdb4ae5,11,1,50.0,0.0,0.0,Early Teen
+cceddb57,13,1,55.0,2.0,0.0,Teen
+cd144127,9,0,58.0,1.0,0.0,Early Teen
+cd1fff5a,12,0,91.0,1.0,0.0,Early Teen
+cd36e51d,12,0,60.0,3.0,2.0,Early Teen
+cd39e576,9,0,43.0,2.0,0.0,Early Teen
+cd68643b,8,0,47.0,0.0,0.0,Early Teen
+cd703872,11,1,89.0,2.0,0.0,Early Teen
+cd89d5f1,15,0,49.0,2.0,0.0,Teen
+cd8ec8ac,6,0,63.0,2.0,0.0,Early Teen
+cd8f3c61,6,0,58.0,0.0,0.0,Early Teen
+cd92eaf6,7,0,69.0,0.0,0.0,Early Teen
+cda90e9e,9,0,82.0,0.0,0.0,Early Teen
+ce031b1b,9,0,53.0,0.0,0.0,Early Teen
+ce379a6a,11,1,51.0,2.0,1.0,Early Teen
+ce6eeadf,18,1,64.0,2.0,1.0,Young Adult
+ce95b2e1,11,0,89.0,0.0,2.0,Early Teen
+cea35700,6,0,69.0,0.0,0.0,Early Teen
+cea73edd,6,0,82.0,0.0,0.0,Early Teen
+cedf96c5,9,1,51.0,0.0,0.0,Early Teen
+cefdb7fe,12,1,71.0,0.0,1.0,Early Teen
+cf0d6d38,7,0,58.0,0.0,0.0,Early Teen
+cf1b9d44,14,0,40.0,1.0,0.0,Teen
+cf2e4065,7,0,51.0,1.0,2.0,Early Teen
+cf86987d,13,0,60.0,3.0,2.0,Teen
+cfbbdd3d,13,0,53.0,0.0,1.0,Teen
+cfcf9dc9,9,0,50.0,0.0,2.0,Early Teen
+cfe4cf40,13,1,45.0,2.0,1.0,Teen
+cff4bcee,7,0,58.0,0.0,0.0,Early Teen
+d00b493e,10,0,69.0,0.0,0.0,Early Teen
+d0429481,15,0,88.0,2.0,3.0,Teen
+d05f5d71,12,1,54.0,1.0,2.0,Early Teen
+d08806a2,8,0,81.0,0.0,1.0,Early Teen
+d0ac4f1c,16,1,80.0,3.0,0.0,Young Adult
+d0ef0744,11,0,69.0,0.0,0.0,Early Teen
+d11428bd,12,1,45.0,2.0,0.0,Early Teen
+d1145910,15,0,59.0,2.0,1.0,Teen
+d14d79b5,6,1,49.0,2.0,0.0,Early Teen
+d19e1025,9,0,47.0,0.0,1.0,Early Teen
+d1a38988,7,0,69.0,0.0,0.0,Early Teen
+d1aa6625,7,1,82.0,0.0,0.0,Early Teen
+d1aafc4e,12,0,67.0,2.0,1.0,Early Teen
+d1ab95e5,9,1,54.0,1.0,0.0,Early Teen
+d22e7168,11,0,43.0,0.0,0.0,Early Teen
+d28f0d44,10,0,58.0,2.0,0.0,Early Teen
+d2b84f45,13,1,55.0,2.0,1.0,Teen
+d2bcca68,9,1,50.0,0.0,0.0,Early Teen
+d2d9b474,8,0,66.0,2.0,0.0,Early Teen
+d2fcde50,9,1,50.0,0.0,0.0,Early Teen
+d3b860ab,5,0,52.2,0.0,1.0,Child
+d3bf6d28,11,1,62.0,2.0,1.0,Early Teen
+d3da09e8,16,0,52.0,3.0,1.0,Young Adult
+d3e45961,6,0,77.0,2.0,0.0,Early Teen
+d3eda827,5,1,53.4,0.0,0.0,Child
+d42454d4,6,0,58.0,2.0,0.0,Early Teen
+d4337a28,9,0,43.0,0.0,0.0,Early Teen
+d445fb74,11,0,59.0,2.0,2.0,Early Teen
+d45bae93,14,0,84.0,2.0,0.0,Teen
+d476f528,11,0,45.0,2.0,2.0,Early Teen
+d4a81b97,8,1,71.0,3.0,0.0,Early Teen
+d4b935f8,12,0,42.0,3.0,0.0,Early Teen
+d4bfc83f,9,1,43.0,0.0,1.0,Early Teen
+d4c2e9a1,10,1,46.0,0.0,0.0,Early Teen
+d4d2f272,12,1,43.0,2.0,1.0,Early Teen
+d4d9f7f9,8,1,55.0,0.0,0.0,Early Teen
+d4f3e585,18,1,55.0,3.0,2.0,Young Adult
+d506f4c7,12,0,45.0,3.0,1.0,Early Teen
+d50a8c3c,22,1,68.0,2.0,1.0,Adult
+d53ead5c,9,1,51.0,2.0,0.0,Early Teen
+d547d0da,8,0,66.0,2.0,1.0,Early Teen
+d565ccf6,8,0,68.0,2.0,0.0,Early Teen
+d57380cf,14,0,42.0,3.0,2.0,Teen
+d57802c5,8,1,55.0,2.0,0.0,Early Teen
+d57f6c9e,16,0,50.0,2.0,2.0,Young Adult
+d5874bad,16,0,55.0,2.0,1.0,Young Adult
+d5a8d9b0,17,0,56.0,3.0,2.0,Young Adult
+d5b089a4,9,0,71.0,1.0,1.0,Early Teen
+d5cebbfc,6,0,75.0,1.0,1.0,Early Teen
+d5fb07d2,9,0,62.0,3.0,1.0,Early Teen
+d5fde276,8,0,67.0,0.0,1.0,Early Teen
+d6007386,10,0,51.0,0.0,1.0,Early Teen
+d61359ee,5,1,47.0,0.0,0.0,Child
+d6251195,7,0,42.0,0.0,0.0,Early Teen
+d661ddf7,11,1,71.0,0.0,1.0,Early Teen
+d66aed49,8,0,62.0,0.0,0.0,Early Teen
+d6723b39,9,0,46.0,0.0,0.0,Early Teen
+d6776176,8,1,42.0,0.0,0.0,Early Teen
+d6add300,15,0,50.0,2.0,1.0,Teen
+d6be0a92,7,0,90.0,0.0,2.0,Early Teen
+d6c4d9eb,6,1,91.0,0.0,0.0,Early Teen
+d6c6baa5,17,1,50.0,2.0,0.0,Young Adult
+d6cca65e,11,0,45.0,3.0,2.0,Early Teen
+d6e613bc,8,0,85.0,2.0,0.0,Early Teen
+d74e4d7c,13,1,72.0,3.0,1.0,Teen
+d766a1c8,12,0,55.0,2.0,0.0,Early Teen
+d77ac332,17,1,56.4,3.0,2.0,Young Adult
+d788a6a8,8,0,43.0,1.0,1.0,Early Teen
+d78c55fb,10,0,85.0,1.0,2.0,Early Teen
+d78f437c,9,1,51.0,0.0,0.0,Early Teen
+d791703f,12,0,54.0,2.0,1.0,Early Teen
+d7c063b4,8,0,40.0,0.0,1.0,Early Teen
+d8037389,12,0,53.0,2.0,1.0,Early Teen
+d80b8bb6,12,0,67.0,2.0,1.0,Early Teen
+d8196954,8,1,41.0,0.0,0.0,Early Teen
+d81f28d3,5,1,54.2,2.0,0.0,Child
+d82e9b87,8,1,53.0,0.0,0.0,Early Teen
+d859115e,10,0,64.0,2.0,0.0,Early Teen
+d85a62b3,6,0,72.0,1.0,2.0,Early Teen
+d85b7c71,7,0,58.0,2.0,1.0,Early Teen
+d87d3d03,10,0,43.0,0.0,0.0,Early Teen
+d87e2d01,14,0,45.0,1.0,1.0,Teen
+d8a78157,13,0,50.0,2.0,1.0,Teen
+d8b066ad,7,0,46.0,3.0,2.0,Early Teen
+d90900e1,7,0,51.0,2.0,0.0,Early Teen
+d94c91bf,8,0,42.0,1.0,0.0,Early Teen
+d980da40,6,0,47.0,0.0,0.0,Early Teen
+d98be7a1,9,1,46.0,0.0,0.0,Early Teen
+d9ae9a13,17,1,56.8,3.0,1.0,Young Adult
+d9c82502,9,0,49.0,0.0,2.0,Early Teen
+d9eb30bf,21,0,69.0,2.0,0.0,Adult
+d9f16cd2,6,1,100.0,0.0,0.0,Early Teen
+da0001de,5,0,61.8,1.0,1.0,Child
+da09ed4b,15,1,58.0,3.0,0.0,Teen
+da15064a,10,0,49.0,0.0,1.0,Early Teen
+da19c97e,8,0,47.0,0.0,0.0,Early Teen
+da1b21b1,7,0,50.0,0.0,0.0,Early Teen
+da5a8921,6,0,59.0,0.0,0.0,Early Teen
+da94e67d,12,0,67.0,0.0,2.0,Early Teen
+daa9b0aa,6,1,62.0,0.0,0.0,Early Teen
+dacc2f83,9,1,79.0,2.0,0.0,Early Teen
+dacfdb2c,8,1,45.0,0.0,0.0,Early Teen
+daf3969c,17,1,48.8,3.0,2.0,Young Adult
+db175ab6,7,0,55.0,0.0,0.0,Early Teen
+db23fbe4,11,0,53.0,0.0,0.0,Early Teen
+db38d1f9,12,0,56.0,0.0,1.0,Early Teen
+db3b1dd1,8,0,47.0,1.0,0.0,Early Teen
+db49ac7c,12,0,68.0,0.0,0.0,Early Teen
+db609511,8,1,50.0,0.0,0.0,Early Teen
+db746de0,9,1,79.0,1.0,0.0,Early Teen
+db9353fd,6,1,38.0,2.0,0.0,Early Teen
+db9eae59,11,0,49.0,1.0,0.0,Early Teen
+dbfa6d84,5,1,57.6,2.0,0.0,Child
+dc168599,6,1,77.0,0.0,0.0,Early Teen
+dc33dcef,12,0,46.0,0.0,0.0,Early Teen
+dc4e9e2f,14,0,41.0,2.0,0.0,Teen
+dc52906a,7,0,59.0,2.0,1.0,Early Teen
+dc6870da,8,0,51.0,2.0,0.0,Early Teen
+dc81eac1,10,1,59.0,2.0,1.0,Early Teen
+dca065be,8,0,51.0,0.0,0.0,Early Teen
+dcd2586d,11,1,60.0,0.0,0.0,Early Teen
+dce2a54d,7,0,42.0,2.0,1.0,Early Teen
+dcfcd574,8,0,59.0,2.0,0.0,Early Teen
+dcffa5d6,5,1,77.0,0.0,0.0,Child
+dd02cfa1,16,1,47.0,0.0,1.0,Young Adult
+dd6679a9,17,1,68.0,2.0,1.0,Young Adult
+dd689eb0,6,1,47.0,0.0,0.0,Early Teen
+dd747bba,6,0,53.0,0.0,0.0,Early Teen
+dd9c9576,8,0,55.0,2.0,0.0,Early Teen
+dd9ce3c4,18,1,57.0,0.0,0.0,Young Adult
+ddd0cb12,8,0,50.0,0.0,0.0,Early Teen
+ddd9a88d,12,0,84.0,2.0,0.0,Early Teen
+dde82df7,9,1,51.0,0.0,0.0,Early Teen
+ddfddd87,12,0,72.0,3.0,2.0,Early Teen
+de3750cc,7,0,41.0,0.0,0.0,Early Teen
+de3ecca9,9,1,89.0,3.0,2.0,Early Teen
+de6797db,8,0,47.0,0.0,0.0,Early Teen
+de742c5c,15,1,47.0,3.0,2.0,Teen
+de91310c,16,1,63.0,3.0,2.0,Young Adult
+de961552,6,0,60.0,0.0,1.0,Early Teen
+de9fe1e0,14,1,63.0,2.0,2.0,Teen
+dea0552b,13,0,62.0,0.0,1.0,Teen
+dec9056d,8,1,50.0,0.0,0.0,Early Teen
+dee8b1bd,14,0,38.0,0.0,2.0,Teen
+dee9eb9c,10,0,66.0,1.0,0.0,Early Teen
+df4a0fee,10,0,53.0,0.0,0.0,Early Teen
+df4ab9b1,15,0,50.0,1.0,1.0,Teen
+df4d2085,8,0,79.0,0.0,1.0,Early Teen
+df556fd2,14,0,68.0,1.0,3.0,Teen
+df98fbb4,12,1,45.0,1.0,2.0,Early Teen
+dfaa2a59,6,1,53.0,0.0,0.0,Early Teen
+dfd87763,6,0,57.4,2.0,0.0,Early Teen
+e016d96c,15,1,42.0,0.0,0.0,Teen
+e0271395,8,1,49.0,0.0,0.0,Early Teen
+e0283d3d,9,1,47.0,0.0,0.0,Early Teen
+e049dab1,15,1,43.0,0.0,0.0,Teen
+e0655da2,9,0,46.0,0.0,0.0,Early Teen
+e0706ce2,8,0,62.0,0.0,1.0,Early Teen
+e072b994,6,1,54.2,0.0,0.0,Early Teen
+e0736134,10,0,53.0,1.0,0.0,Early Teen
+e0767d64,13,1,75.0,1.0,2.0,Teen
+e07fa0b1,12,0,73.0,2.0,2.0,Early Teen
+e0869709,17,0,38.0,2.0,2.0,Young Adult
+e0a7f42a,16,1,51.0,1.0,1.0,Young Adult
+e0ad6550,8,0,50.0,0.0,2.0,Early Teen
+e0c4e965,15,1,47.0,0.0,0.0,Teen
+e0db55b1,17,0,53.2,0.0,1.0,Young Adult
+e0e35d4e,14,0,51.0,3.0,1.0,Teen
+e0eb3ea8,10,0,80.0,0.0,2.0,Early Teen
+e0fb3838,6,1,46.8,0.0,0.0,Early Teen
+e11be9c1,10,0,71.0,0.0,0.0,Early Teen
+e12c2944,10,0,66.0,2.0,2.0,Early Teen
+e15fe97b,15,0,53.0,0.0,0.0,Teen
+e16a4784,14,0,91.0,2.0,3.0,Teen
+e17b9cae,12,0,86.0,2.0,2.0,Early Teen
+e1958a83,6,1,47.0,0.0,0.0,Early Teen
+e199d438,8,0,80.0,2.0,1.0,Early Teen
+e1a4575f,8,1,43.0,0.0,0.0,Early Teen
+e1af39f8,15,0,45.0,0.0,1.0,Teen
+e1ccc3d1,8,1,47.0,0.0,0.0,Early Teen
+e1e02e28,5,0,54.2,2.0,0.0,Child
+e1ea8dd7,11,0,54.0,2.0,0.0,Early Teen
+e21255e2,11,0,67.0,2.0,1.0,Early Teen
+e22cf08a,9,0,42.0,0.0,0.0,Early Teen
+e23a8a0a,10,0,59.0,0.0,0.0,Early Teen
+e243119c,10,0,51.0,1.0,0.0,Early Teen
+e252dcb6,13,1,67.0,3.0,2.0,Teen
+e25f7b9a,10,0,40.0,0.0,1.0,Early Teen
+e28c0bfa,9,0,80.0,2.0,1.0,Early Teen
+e296c5e4,7,0,50.0,0.0,0.0,Early Teen
+e2cb8401,13,0,73.0,3.0,0.0,Teen
+e2d370a2,9,0,75.0,2.0,1.0,Early Teen
+e2fcc91e,12,1,47.0,0.0,0.0,Early Teen
+e315fdd7,14,0,50.0,1.0,0.0,Teen
+e318ec9a,7,0,60.0,0.0,0.0,Early Teen
+e328a032,8,0,72.0,0.0,0.0,Early Teen
+e345b271,8,0,50.0,0.0,1.0,Early Teen
+e34b9430,13,0,79.0,0.0,1.0,Teen
+e362108f,9,1,58.0,2.0,0.0,Early Teen
+e37d000b,8,1,42.0,2.0,0.0,Early Teen
+e3a6f97f,16,1,57.2,3.0,1.0,Young Adult
+e3aa85a3,7,0,62.0,0.0,0.0,Early Teen
+e3aa9dcb,11,1,68.0,1.0,1.0,Early Teen
+e3af914a,9,1,80.0,0.0,1.0,Early Teen
+e3bb3735,12,1,59.0,2.0,1.0,Early Teen
+e3bce7e1,11,0,62.0,0.0,0.0,Early Teen
+e3cec795,9,0,49.0,0.0,1.0,Early Teen
+e3d5aab8,7,1,50.0,0.0,0.0,Early Teen
+e3f71f7a,20,0,75.0,0.0,0.0,Adult
+e40319d7,9,0,73.0,0.0,1.0,Early Teen
+e4614ec6,6,0,49.2,2.0,1.0,Early Teen
+e46417a7,6,1,54.2,0.0,0.0,Early Teen
+e4762a2b,11,0,59.0,2.0,1.0,Early Teen
+e47c1eb7,12,0,47.0,1.0,1.0,Early Teen
+e4a2e3bc,7,0,100.0,0.0,2.0,Early Teen
+e4ab3b12,8,0,50.0,0.0,0.0,Early Teen
+e4b47411,8,1,72.0,1.0,1.0,Early Teen
+e4c008b9,9,1,59.0,0.0,0.0,Early Teen
+e4d396d7,8,0,54.0,0.0,0.0,Early Teen
+e4d5bf2b,15,1,47.0,2.0,1.0,Teen
+e4db6712,8,1,62.0,2.0,1.0,Early Teen
+e4e58096,12,1,55.0,0.0,0.0,Early Teen
+e4ee6ff3,14,1,59.0,2.0,0.0,Teen
+e51193d1,9,0,42.0,0.0,2.0,Early Teen
+e515c971,10,1,41.0,2.0,1.0,Early Teen
+e5349ce2,7,0,49.0,0.0,0.0,Early Teen
+e537418f,13,1,56.0,3.0,1.0,Teen
+e56b2209,9,0,47.0,0.0,0.0,Early Teen
+e5b902bc,16,0,53.0,2.0,2.0,Young Adult
+e5d77ff3,10,0,76.0,1.0,1.0,Early Teen
+e6169c6d,9,0,51.0,0.0,0.0,Early Teen
+e63000c5,7,1,53.0,0.0,0.0,Early Teen
+e63a0ea8,8,0,42.0,0.0,0.0,Early Teen
+e664dd71,7,1,46.0,0.0,1.0,Early Teen
+e683d2c9,9,0,71.0,1.0,1.0,Early Teen
+e715739b,10,1,55.0,2.0,1.0,Early Teen
+e71f347e,12,0,56.0,2.0,0.0,Early Teen
+e72af462,15,0,49.0,2.0,1.0,Teen
+e739c579,11,1,81.0,1.0,1.0,Early Teen
+e7401605,6,1,49.2,2.0,0.0,Early Teen
+e754411f,14,1,40.0,3.0,0.0,Teen
+e76ad778,14,1,68.0,2.0,2.0,Teen
+e79487a3,7,1,58.0,0.0,0.0,Early Teen
+e7bbb32e,8,1,94.0,1.0,1.0,Early Teen
+e7d08824,15,1,56.0,1.0,0.0,Teen
+e7db432d,16,0,58.2,0.0,0.0,Young Adult
+e7db9aef,13,0,68.0,0.0,2.0,Teen
+e7e43817,9,1,50.0,0.0,1.0,Early Teen
+e7ee0921,7,1,49.0,0.0,0.0,Early Teen
+e8313da5,5,0,56.0,0.0,1.0,Child
+e86bb780,7,1,53.0,0.0,0.0,Early Teen
+e88aa867,14,0,84.0,2.0,0.0,Teen
+e892aec6,8,0,51.0,0.0,1.0,Early Teen
+e8ac21d2,12,0,55.0,1.0,2.0,Early Teen
+e8af663d,10,0,45.0,2.0,0.0,Early Teen
+e8b64419,13,0,43.0,1.0,0.0,Teen
+e8d9d5ea,9,1,64.0,1.0,0.0,Early Teen
+e8e82627,6,1,73.0,2.0,0.0,Early Teen
+e9030ab7,11,0,69.0,1.0,2.0,Early Teen
+e90a63d0,10,0,53.0,0.0,0.0,Early Teen
+e912c973,13,0,66.0,2.0,1.0,Teen
+e934bf0a,10,0,46.0,2.0,1.0,Early Teen
+e93cce44,7,0,56.0,2.0,1.0,Early Teen
+e96763c1,9,0,79.0,2.0,1.0,Early Teen
+e96da61f,7,1,59.0,0.0,0.0,Early Teen
+e9a6c514,8,1,60.0,0.0,0.0,Early Teen
+e9b642a3,13,0,64.0,3.0,1.0,Teen
+e9ca5586,8,0,60.0,0.0,0.0,Early Teen
+e9d94c4e,8,0,73.0,0.0,0.0,Early Teen
+ea38bd63,12,0,76.0,3.0,2.0,Early Teen
+ea4619ec,10,1,55.0,0.0,0.0,Early Teen
+ea544af3,13,1,50.0,1.0,0.0,Teen
+ea7277b4,9,1,72.0,0.0,0.0,Early Teen
+ea7adcd6,13,1,49.0,3.0,0.0,Teen
+eaa4821d,7,0,47.0,0.0,0.0,Early Teen
+eaab7a96,11,1,62.0,0.0,0.0,Early Teen
+eac08386,7,1,58.0,0.0,0.0,Early Teen
+ead25f13,9,0,47.0,0.0,1.0,Early Teen
+ead871be,6,1,60.6,0.0,2.0,Early Teen
+eaedb188,10,1,71.0,0.0,0.0,Early Teen
+eb00abb3,9,1,46.0,0.0,1.0,Early Teen
+eb5c46b0,16,1,52.0,3.0,0.0,Young Adult
+eb749e46,14,0,73.0,0.0,2.0,Teen
+eb891208,9,0,67.0,1.0,0.0,Early Teen
+eb90ee20,11,0,43.0,0.0,0.0,Early Teen
+eb93a46a,9,0,49.0,0.0,0.0,Early Teen
+eb9a846d,6,0,62.0,2.0,0.0,Early Teen
+eba27772,6,0,54.2,0.0,0.0,Early Teen
+ebd15fdc,12,1,51.0,1.0,1.0,Early Teen
+ebd6f819,10,0,85.0,2.0,1.0,Early Teen
+ebf2b0c9,10,1,69.0,0.0,0.0,Early Teen
+ebf30e46,10,0,58.0,1.0,0.0,Early Teen
+ec015bbb,9,1,47.0,0.0,0.0,Early Teen
+ec0f4afa,6,1,53.4,3.0,0.0,Early Teen
+ec13a1b9,8,0,53.0,2.0,2.0,Early Teen
+ec220299,15,0,50.0,0.0,0.0,Teen
+ec4a1461,16,1,68.0,2.0,2.0,Young Adult
+ec619149,18,1,66.2,1.0,0.0,Young Adult
+ec65cd62,9,0,60.0,0.0,0.0,Early Teen
+ec6b57b4,15,0,41.0,0.0,0.0,Teen
+ec850b10,14,0,64.0,2.0,0.0,Teen
+ec890dbd,10,1,59.0,0.0,1.0,Early Teen
+ec8f8f95,9,0,47.0,3.0,2.0,Early Teen
+ec9044f5,16,1,60.0,0.0,0.0,Young Adult
+ec9179b7,8,1,45.0,0.0,0.0,Early Teen
+ec9195be,12,1,58.0,0.0,0.0,Early Teen
+ecbdbe55,7,0,42.0,0.0,0.0,Early Teen
+ecd22509,12,0,69.0,2.0,2.0,Early Teen
+ecd25dd1,18,0,55.2,2.0,0.0,Young Adult
+ed0b3906,19,0,57.2,3.0,2.0,Adult
+ed329c15,16,1,50.0,3.0,1.0,Young Adult
+ed50a6f6,11,0,50.0,2.0,2.0,Early Teen
+ed61b01e,16,0,42.0,3.0,0.0,Young Adult
+ed711416,8,0,69.0,0.0,1.0,Early Teen
+edb86a64,10,0,43.0,1.0,1.0,Early Teen
+edb9d0f3,10,1,38.0,0.0,0.0,Early Teen
+edbf35f3,14,1,81.0,3.0,2.0,Teen
+edc44560,13,1,56.0,2.0,0.0,Teen
+edca760c,7,1,82.0,2.0,1.0,Early Teen
+edeec50d,10,0,49.0,0.0,0.0,Early Teen
+edfe1f8d,14,1,56.0,2.0,1.0,Teen
+ee0fa75a,18,0,58.0,3.0,1.0,Young Adult
+ee21612e,15,0,50.0,0.0,2.0,Teen
+ee2bf575,11,0,50.0,3.0,2.0,Early Teen
+ee4e9eed,9,1,55.0,0.0,0.0,Early Teen
+ee654259,8,0,55.0,0.0,1.0,Early Teen
+ee67eb55,9,1,62.0,0.0,0.0,Early Teen
+ee74be35,10,1,45.0,3.0,0.0,Early Teen
+ee7de96c,7,1,46.0,0.0,0.0,Early Teen
+eea74d46,8,0,50.0,0.0,1.0,Early Teen
+eec0d188,9,1,64.0,0.0,0.0,Early Teen
+eeedcd5e,18,1,69.6,3.0,1.0,Young Adult
+eeefa792,8,0,54.0,0.0,0.0,Early Teen
+eef79620,13,1,63.0,2.0,0.0,Teen
+eefeb431,12,1,62.0,2.0,0.0,Early Teen
+ef07f833,8,0,47.0,0.0,0.0,Early Teen
+ef1b858a,7,1,50.0,0.0,0.0,Early Teen
+ef4ae515,6,0,54.2,0.0,0.0,Early Teen
+ef58dd3c,16,1,41.0,1.0,0.0,Young Adult
+ef9617e7,10,0,49.0,2.0,2.0,Early Teen
+efa35d35,6,0,46.0,1.0,0.0,Early Teen
+efc2bc05,12,1,58.0,2.0,0.0,Early Teen
+efcef0d6,12,0,46.0,2.0,0.0,Early Teen
+efedde24,16,0,64.0,3.0,0.0,Young Adult
+f015a18c,15,0,42.0,3.0,0.0,Teen
+f028534c,8,0,95.0,0.0,0.0,Early Teen
+f0356a48,10,0,41.0,0.0,0.0,Early Teen
+f043be76,11,1,45.0,2.0,0.0,Early Teen
+f08a5ac3,6,1,95.0,3.0,0.0,Early Teen
+f0957ca1,12,0,47.0,1.0,2.0,Early Teen
+f09a076a,13,0,54.0,2.0,1.0,Teen
+f09b02cd,8,0,63.0,0.0,0.0,Early Teen
+f09e7b33,17,0,67.2,2.0,2.0,Young Adult
+f0b5d026,10,1,80.0,0.0,2.0,Early Teen
+f0d76b32,10,1,41.0,3.0,1.0,Early Teen
+f0ed5690,8,0,46.0,1.0,0.0,Early Teen
+f0f3e41f,12,0,38.0,2.0,0.0,Early Teen
+f1049268,10,1,56.0,2.0,1.0,Early Teen
+f11e17c0,14,1,77.0,3.0,1.0,Teen
+f13cb65e,10,0,56.0,2.0,2.0,Early Teen
+f14e55d7,6,0,80.0,2.0,0.0,Early Teen
+f15dca1b,10,1,54.0,2.0,1.0,Early Teen
+f1702318,14,1,46.0,0.0,1.0,Teen
+f1a16e58,9,0,59.0,2.0,1.0,Early Teen
+f1baabc1,6,0,58.0,0.0,1.0,Early Teen
+f1baae47,11,0,45.0,1.0,1.0,Early Teen
+f1bd0f59,10,0,67.0,0.0,0.0,Early Teen
+f1c3cb6b,9,1,81.0,3.0,1.0,Early Teen
+f1ed2e85,6,0,75.0,0.0,0.0,Early Teen
+f1ee75bf,10,0,47.0,0.0,1.0,Early Teen
+f220a837,12,0,40.0,3.0,1.0,Early Teen
+f2260009,9,0,49.0,0.0,0.0,Early Teen
+f240387a,11,0,38.0,1.0,1.0,Early Teen
+f2499682,8,0,54.0,0.0,0.0,Early Teen
+f2649b91,14,1,47.0,2.0,1.0,Teen
+f285b43c,13,0,62.0,2.0,1.0,Teen
+f29d4094,13,0,51.0,2.0,1.0,Teen
+f2d4efd8,12,1,64.0,2.0,2.0,Early Teen
+f301e7a9,7,1,63.0,1.0,0.0,Early Teen
+f3020788,18,0,71.6,3.0,2.0,Young Adult
+f32a9580,11,0,53.0,0.0,0.0,Early Teen
+f35b607c,10,0,58.0,0.0,0.0,Early Teen
+f3600deb,7,1,56.0,2.0,1.0,Early Teen
+f3a1dd3b,11,1,49.0,2.0,1.0,Early Teen
+f3aac45a,15,1,89.0,1.0,1.0,Teen
+f3d22832,11,0,45.0,1.0,0.0,Early Teen
+f3fbe6c9,10,0,77.0,0.0,0.0,Early Teen
+f4114031,12,0,46.0,0.0,1.0,Early Teen
+f420b05a,5,0,52.6,0.0,0.0,Child
+f4223e3a,7,0,100.0,0.0,2.0,Early Teen
+f44f1227,10,0,38.0,0.0,0.0,Early Teen
+f47a67cc,7,1,56.0,0.0,0.0,Early Teen
+f47abc42,10,0,38.0,0.0,0.0,Early Teen
+f497dd7b,18,0,52.6,2.0,0.0,Young Adult
+f4d2f5af,10,0,67.0,0.0,2.0,Early Teen
+f4ece6b5,8,1,43.0,0.0,0.0,Early Teen
+f52a2597,6,0,62.0,3.0,0.0,Early Teen
+f5369cea,6,0,47.0,0.0,0.0,Early Teen
+f54eebeb,17,0,58.6,2.0,1.0,Young Adult
+f566e5cc,15,1,45.0,3.0,1.0,Teen
+f567a1af,7,1,40.0,0.0,0.0,Early Teen
+f57de847,12,0,45.0,0.0,0.0,Early Teen
+f584742f,15,0,80.0,0.0,1.0,Teen
+f58ddd4a,11,0,45.0,1.0,1.0,Early Teen
+f5ad7abc,6,1,41.0,1.0,0.0,Early Teen
+f5b2acf0,8,1,55.0,2.0,1.0,Early Teen
+f5d4c82e,17,0,61.2,2.0,1.0,Young Adult
+f5e64c94,10,0,89.0,1.0,1.0,Early Teen
+f6284dcb,8,0,64.0,0.0,0.0,Early Teen
+f62b317d,12,1,66.0,0.0,0.0,Early Teen
+f64ae747,9,0,69.0,1.0,2.0,Early Teen
+f64e1d85,7,0,59.0,1.0,2.0,Early Teen
+f64f877b,8,1,58.0,0.0,0.0,Early Teen
+f67908e7,9,0,53.0,0.0,0.0,Early Teen
+f68f158d,6,0,73.0,3.0,0.0,Early Teen
+f6b719ee,6,1,58.0,0.0,0.0,Early Teen
+f6c0e2b7,14,0,49.0,2.0,1.0,Teen
+f6c20447,9,1,47.0,0.0,0.0,Early Teen
+f6cc80a9,17,1,75.0,3.0,0.0,Young Adult
+f6d3a5ad,7,0,51.0,2.0,0.0,Early Teen
+f6d6f400,12,0,81.0,0.0,0.0,Early Teen
+f6d879aa,13,0,64.0,0.0,1.0,Teen
+f74c45c1,11,0,55.0,1.0,1.0,Early Teen
+f74eda33,10,0,41.0,3.0,2.0,Early Teen
+f75c957f,7,1,53.0,0.0,0.0,Early Teen
+f77c2636,16,1,60.4,3.0,1.0,Young Adult
+f7b1374e,13,1,63.0,0.0,1.0,Teen
+f7fc97cf,14,0,50.0,2.0,0.0,Teen
+f804c9f3,8,0,80.0,2.0,1.0,Early Teen
+f81598bf,11,0,47.0,0.0,1.0,Early Teen
+f817f33a,5,0,58.0,0.0,0.0,Child
+f848f42b,7,1,62.0,2.0,1.0,Early Teen
+f8674e15,8,0,76.0,1.0,1.0,Early Teen
+f869d220,11,0,91.0,3.0,1.0,Early Teen
+f8b08332,11,0,54.0,1.0,0.0,Early Teen
+f8b36382,7,0,67.0,0.0,1.0,Early Teen
+f8bf4a1c,15,0,40.0,3.0,0.0,Teen
+f8d293a0,8,0,45.0,0.0,0.0,Early Teen
+f8e3467e,7,1,69.0,2.0,1.0,Early Teen
+f8ff0bc8,18,0,59.0,2.0,0.0,Young Adult
+f922ae21,11,0,54.0,0.0,0.0,Early Teen
+f93010a8,9,0,41.0,2.0,0.0,Early Teen
+f9334e08,6,1,45.0,0.0,1.0,Early Teen
+f9384fa2,15,1,51.0,2.0,1.0,Teen
+f958efdc,11,0,51.0,2.0,0.0,Early Teen
+f9897bf1,6,0,62.0,0.0,1.0,Early Teen
+fa293db8,12,1,56.0,0.0,0.0,Early Teen
+fa29ab47,7,0,45.0,0.0,0.0,Early Teen
+fa34f945,14,0,71.0,2.0,1.0,Teen
+fa3e1e21,9,1,56.0,0.0,0.0,Early Teen
+fa472647,11,1,63.0,2.0,1.0,Early Teen
+fa4f0329,7,0,54.0,1.0,0.0,Early Teen
+fa62d7b1,15,1,46.0,0.0,0.0,Teen
+fa633e39,10,1,51.0,2.0,0.0,Early Teen
+fa78d819,15,0,81.0,2.0,2.0,Teen
+fa9a0add,7,1,45.0,0.0,0.0,Early Teen
+fab75c2c,6,1,73.0,0.0,0.0,Early Teen
+fad07fce,10,1,45.0,2.0,0.0,Early Teen
+fb04f7dd,8,0,56.0,0.0,2.0,Early Teen
+fb22e454,11,0,50.0,2.0,0.0,Early Teen
+fb2c4db6,6,1,41.0,0.0,0.0,Early Teen
+fb2ddbd1,8,0,54.0,1.0,2.0,Early Teen
+fb3c2c87,6,0,59.0,1.0,0.0,Early Teen
+fb9982a2,7,0,56.0,0.0,0.0,Early Teen
+fb9b060f,16,1,93.0,2.0,2.0,Young Adult
+fb9c5a33,8,0,51.0,0.0,0.0,Early Teen
+fbb39bfe,16,0,69.8,0.0,2.0,Young Adult
+fbbd97b1,14,1,53.0,0.0,0.0,Teen
+fbc6ade7,6,0,45.0,0.0,1.0,Early Teen
+fbda3966,10,0,49.0,1.0,1.0,Early Teen
+fc1912e3,16,1,49.0,2.0,1.0,Young Adult
+fc2c2c08,9,0,60.0,0.0,0.0,Early Teen
+fc41be2f,5,0,54.2,0.0,0.0,Child
+fc49ba65,6,1,38.0,0.0,0.0,Early Teen
+fc8e4de4,9,1,46.0,1.0,0.0,Early Teen
+fcc6347f,6,1,67.0,0.0,0.0,Early Teen
+fcd9a6bb,6,0,54.0,0.0,0.0,Early Teen
+fd028ecc,10,1,59.0,0.0,0.0,Early Teen
+fd0d9bca,8,1,42.0,0.0,0.0,Early Teen
+fd3448d9,13,0,40.0,2.0,2.0,Teen
+fd5589f6,8,0,38.0,2.0,0.0,Early Teen
+fd56e059,6,0,51.0,1.0,0.0,Early Teen
+fdb6b48b,8,0,76.0,2.0,0.0,Early Teen
+fdc11b96,13,0,53.0,2.0,0.0,Teen
+fdd9799f,15,0,56.0,3.0,1.0,Teen
+fdea7d9e,11,1,71.0,2.0,1.0,Early Teen
+fdf4691f,9,0,56.0,2.0,0.0,Early Teen
+fe102a25,5,0,52.2,3.0,1.0,Child
+fe2bc235,12,0,46.0,2.0,2.0,Early Teen
+fe3cbf02,7,0,54.0,0.0,0.0,Early Teen
+fe5e2dc9,7,0,68.0,0.0,2.0,Early Teen
+fe6afaf9,11,0,54.0,1.0,0.0,Early Teen
+fe9c71d8,9,0,47.0,0.0,0.0,Early Teen
+feb53635,14,0,71.0,3.0,2.0,Teen
+fecc07d6,7,0,49.0,0.0,0.0,Early Teen
+fee07f32,6,0,47.0,1.0,0.0,Early Teen
+fefaffe0,12,1,43.0,0.0,0.0,Early Teen
+ff18b749,7,0,85.0,0.0,0.0,Early Teen
+ff60112d,15,0,90.0,3.0,1.0,Teen
+ff6c2bb8,8,0,58.0,2.0,0.0,Early Teen
+ff759544,7,1,67.0,0.0,1.0,Early Teen
+ff8a2de4,13,0,50.0,1.0,1.0,Teen
+ffcd4dbd,11,0,77.0,0.0,1.0,Early Teen
+ffed1dd5,13,0,47.0,1.0,0.0,Teen
